@@ -1,0 +1,3732 @@
+﻿{
+  "packages": [
+    {
+      "created": "2021-09-07T11:43:23.9923581Z",
+      "id": "2",
+      "packageType": "TICKET_LIST",
+      "value": {
+        "ticketTypes": [
+          {
+            "id": "9",
+            "code": "23333",
+            "name": "Hintóka",
+            "validFrom": "2021-02-08T00:00:00",
+            "validTo": null,
+            "operator": {
+              "id": "2f5e7ea3-42b3-405b-cc1a-08d9479277df",
+              "name": "Balatoni Bob",
+              "taxNumber": "00000000000"
+            },
+            "paymentModes": [
+              "CARD"
+            ],
+            "rules": {
+              "validityRule": null,
+              "connectionRule": null,
+              "salesRule": null
+            },
+            "prices": [
+              {
+                "id": "92a95bb4-9a79-496f-a4fa-a80ab81a075d",
+                "netPrice": 799.0,
+                "validFrom": "2021-02-08T12:34:00",
+                "validTo": null,
+                "vat": 0,
+                "grossPrice": 799.0,
+                "vatRate": 0,
+                "vatCode": "C",
+                "currency": "HUF"
+              }
+            ],
+            "articleID": "02000000023311",
+            "printedTicketName": [
+              {
+                "languageCode": "HU",
+                "text": "HINTÓKA"
+              },
+              {
+                "languageCode": "EN",
+                "text": "SWINGY"
+              },
+              {
+                "languageCode": "DE",
+                "text": "RIESEBSCHAUKEL"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "HINTÓKA"
+              }
+            ],
+            "ticketInfo": [
+              {
+                "languageCode": "HU",
+                "text": "Érvényes 1 menetre\n",
+                "shortText": "Érvényes 1 menetre\n"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "Érvényes 1 menetre\n",
+                "shortText": "Érvényes 1 menetre\n"
+              }
+            ],
+            "ticketLayoutID": 45,
+            "inPrintMergeAble" : true,
+            "count": 1
+          },
+          {
+            "id": "10",
+            "code": "23333",
+            "name": "Visszatérő",
+            "validFrom": "2021-02-08T00:00:00",
+            "validTo": null,
+            "operator": {
+              "id": "2f5e7ea3-42b3-405b-cc1a-08d9479277df",
+              "name": "Balatoni Bob",
+              "taxNumber": "00000000000"
+            },
+            "paymentModes": [
+              "CARD"
+            ],
+            "rules": {
+              "validityRule": null,
+              "connectionRule": null,
+              "salesRule": null
+            },
+            "prices": [
+              {
+                "id": "92a95bb4-9a79-496f-a4fa-a80ab81a075d",
+                "netPrice": 0.0,
+                "validFrom": "2021-02-08T12:34:00",
+                "validTo": null,
+                "vat": 0,
+                "grossPrice": 0.0,
+                "vatRate": 0,
+                "vatCode": "C",
+                "currency": "HUF"
+              }
+            ],
+            "articleID": "02000000023311",
+            "printedTicketName": [
+              {
+                "languageCode": "HU",
+                "text": "VISSZATÉRŐ"
+              },
+              {
+                "languageCode": "EN",
+                "text": "Welcome back!"
+              },
+              {
+                "languageCode": "DE",
+                "text": null
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "VISSZATÉRŐ"
+              }
+            ],
+            "ticketInfo": [
+              {
+                "languageCode": "HU",
+                "text": "Érvényes 1 csúszásra\n",
+                "shortText": "Érvényes 1 csúszásra\n"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "Érvényes 1 csúszásra\n",
+                "shortText": "Érvényes 1 csúszásra\n"
+              }
+            ],
+            "ticketLayoutID": 45,
+            "inPrintMergeAble" : true,
+            "count": 1
+          },
+          {
+            "id": "4",
+            "code": "23333",
+            "name": "F csop 1",
+            "validFrom": "2021-02-08T00:00:00",
+            "validTo": null,
+            "operator": {
+              "id": "2f5e7ea3-42b3-405b-cc1a-08d9479277df",
+              "name": "Balatoni Bob",
+              "taxNumber": "00000000000"
+            },
+            "paymentModes": [
+              "CARD"
+            ],
+            "rules": {
+              "validityRule": null,
+              "connectionRule": null,
+              "salesRule": null
+            },
+            "prices": [
+              {
+                "id": "92a95bb4-9a79-496f-a4fa-a80ab81a075d",
+                "netPrice": 699.0,
+                "validFrom": "2021-02-08T12:34:00",
+                "validTo": null,
+                "vat": 0,
+                "grossPrice": 699.0,
+                "vatRate": 0,
+                "vatCode": "C",
+                "currency": "HUF"
+              }
+            ],
+            "articleID": "02000000023311",
+            "printedTicketName": [
+              {
+                "languageCode": "HU",
+                "text": "FELN. CSOP/ADULT GR"
+              },
+              {
+                "languageCode": "EN",
+                "text": "ADULT GROUP"
+              },
+              {
+                "languageCode": "DE",
+                "text": "ERWA GROUP"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "FELN. CSOP/ADULT GR"
+              }
+            ],
+            "ticketInfo": [
+              {
+                "languageCode": "HU",
+                "text": "Érvényes 1 menetre\n",
+                "shortText": "Érvényes 1 menetre\n"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "Érvényes 1 menetre\n",
+                "shortText": "Érvényes 1 menetre\n"
+              }
+            ],
+            "ticketLayoutID": 45,
+            "inPrintMergeAble" : true,
+            "count": 1
+          },
+          {
+            "id": "8",
+            "code": "23333",
+            "name": "Gy csop 1",
+            "validFrom": "2021-02-08T00:00:00",
+            "validTo": null,
+            "operator": {
+              "id": "2f5e7ea3-42b3-405b-cc1a-08d9479277df",
+              "name": "Balatoni Bob",
+              "taxNumber": "00000000000"
+            },
+            "paymentModes": [
+              "CARD"
+            ],
+            "rules": {
+              "validityRule": null,
+              "connectionRule": null,
+              "salesRule": null
+            },
+            "prices": [
+              {
+                "id": "92a95bb4-9a79-496f-a4fa-a80ab81a075d",
+                "netPrice": 599.0,
+                "validFrom": "2021-02-08T12:34:00",
+                "validTo": null,
+                "vat": 0,
+                "grossPrice": 599.0,
+                "vatRate": 0,
+                "vatCode": "C",
+                "currency": "HUF"
+              }
+            ],
+            "articleID": "02000000023311",
+            "printedTicketName": [
+              {
+                "languageCode": "HU",
+                "text": "GYERM.CS / CHILD.GR"
+              },
+              {
+                "languageCode": "EN",
+                "text": "CHILDREN group"
+              },
+              {
+                "languageCode": "DE",
+                "text": "KINDER group"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "GYERM.CS / CHILD.GR"
+              }
+            ],
+            "ticketInfo": [
+              {
+                "languageCode": "HU",
+                "text": "Érvényes 1 csúszásra\n",
+                "shortText": "Érvényes 1 csúszásra\n"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "Érvényes 1 csúszásra\n",
+                "shortText": "Érvényes 1 csúszásra\n"
+              }
+            ],
+            "ticketLayoutID": 45,
+            "inPrintMergeAble" : true,
+            "count": 1
+          },
+          {
+            "id": "3",
+            "code": "52526",
+            "name": "Felnőtt 12",
+            "validFrom": "2021-02-08T00:00:00",
+            "validTo": null,
+            "operator": {
+              "id": "2f5e7ea3-42b3-405b-cc1a-08d9479277df",
+              "name": "Balatoni Bob",
+              "taxNumber": "00000000000"
+            },
+            "paymentModes": [
+              "CARD"
+            ],
+            "rules": {
+              "validityRule": null,
+              "connectionRule": null,
+              "salesRule": null
+            },
+            "prices": [
+              {
+                "id": "ceea6e58-d9c7-40ab-81d9-ebf63cbc1c7d",
+                "netPrice": 7999.0,
+                "validFrom": "2021-02-08T12:34:00",
+                "validTo": null,
+                "vat": 0,
+                "grossPrice": 7999.0,
+                "vatRate": 0,
+                "vatCode": "C",
+                "currency": "HUF"
+              }
+            ],
+            "articleID": "02000000052526",
+            "printedTicketName": [
+              {
+                "languageCode": "HU",
+                "text": "FELNŐTT / ADULT"
+              },
+              {
+                "languageCode": "EN",
+                "text": "ADULT"
+              },
+              {
+                "languageCode": "DE",
+                "text": "ERWACHSENE"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "FELNŐTT / ADULT"
+              }
+            ],
+            "ticketInfo": [
+              {
+                "languageCode": "HU",
+                "text": "Érvényes 12 csúszásra\n",
+                "shortText": "Érvényes 12 csúszásra\n"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "Érvényes 12 csúszásra\n",
+                "shortText": "Érvényes 12 csúszásra\n"
+              }
+            ],
+            "ticketLayoutID": 45,
+            "count": 12
+          },
+          {
+            "id": "7",
+            "code": "23311",
+            "name": "Gyermek 12",
+            "validFrom": "2021-02-08T00:00:00",
+            "validTo": null,
+            "operator": {
+              "id": "2f5e7ea3-42b3-405b-cc1a-08d9479277df",
+              "name": "Balatoni Bob",
+              "taxNumber": "00000000000"
+            },
+            "paymentModes": [
+              "CARD"
+            ],
+            "rules": {
+              "validityRule": null,
+              "connectionRule": null,
+              "salesRule": null
+            },
+            "prices": [
+              {
+                "id": "92a95bb4-9a79-496f-a4fa-a80ab81a075d",
+                "netPrice": 6999.0,
+                "validFrom": "2021-02-08T12:34:00",
+                "validTo": null,
+                "vat": 0,
+                "grossPrice": 6999.0,
+                "vatRate": 0,
+                "vatCode": "C",
+                "currency": "HUF"
+              }
+            ],
+            "articleID": "02000000023311",
+            "printedTicketName": [
+              {
+                "languageCode": "HU",
+                "text": "GYERMEK / CHILDREN"
+              },
+              {
+                "languageCode": "EN",
+                "text": "CHILD"
+              },
+              {
+                "languageCode": "DE",
+                "text": "KINDER"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "GYERMEK / CHILDREN"
+              }
+            ],
+            "ticketInfo": [
+              {
+                "languageCode": "HU",
+                "text": "Érvényes 12 csúszásra\n",
+                "shortText": "Érvényes 12 csúszásra\n"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "Érvényes 12 csúszásra\n",
+                "shortText": "Érvényes 12 csúszásra\n"
+              }
+            ],
+            "ticketLayoutID": 45,
+            "count": 12
+          },
+          {
+            "id": "2",
+            "code": "55510",
+            "name": "Felnőtt 6",
+            "validFrom": "2021-02-08T00:00:00",
+            "validTo": null,
+            "operator": {
+              "id": "2f5e7ea3-42b3-405b-cc1a-08d9479277df",
+              "name": "Balatoni Bob",
+              "taxNumber": "00000000000"
+            },
+            "paymentModes": [
+              "CARD"
+            ],
+            "rules": {
+              "validityRule": null,
+              "connectionRule": null,
+              "salesRule": null
+            },
+            "prices": [
+              {
+                "id": "c44c2a59-c03f-4d0b-a1ea-a0c089a75e9a",
+                "netPrice": 4599.0,
+                "validFrom": "2021-02-08T12:34:00",
+                "validTo": null,
+                "vat": 0,
+                "grossPrice": 4599.0,
+                "vatRate": 0,
+                "vatCode": "C",
+                "currency": "HUF"
+              }
+            ],
+            "articleID": "02000000055510",
+            "printedTicketName": [
+              {
+                "languageCode": "HU",
+                "text": "FELNŐTT / ADULT"
+              },
+              {
+                "languageCode": "EN",
+                "text": "ADULT"
+              },
+              {
+                "languageCode": "DE",
+                "text": "ERWACHSENE"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "FELNŐTT / ADULT"
+              }
+            ],
+            "ticketInfo": [
+              {
+                "languageCode": "HU",
+                "text": "Érvényes 6 csúszásra\n",
+                "shortText": "Érvényes 6 csúszásra\n "
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "Érvényes 6 csúszásra\n",
+                "shortText": "Érvényes 6 csúszásra\n"
+              }
+            ],
+            "ticketLayoutID": 45,
+            "count": 6
+          },
+          {
+            "id": "6",
+            "code": "13558",
+            "name": "Gyermek 6",
+            "validFrom": "2021-02-08T00:00:00",
+            "validTo": null,
+            "operator": {
+              "id": "2f5e7ea3-42b3-405b-cc1a-08d9479277df",
+              "name": "Balatoni Bob",
+              "taxNumber": "00000000000"
+            },
+            "paymentModes": [
+              "CARD"
+            ],
+            "rules": {
+              "validityRule": null,
+              "connectionRule": null,
+              "salesRule": null
+            },
+            "prices": [
+              {
+                "id": "ef60d213-6671-495a-890b-db52e53a507c",
+                "netPrice": 3999.0,
+                "validFrom": "2021-02-08T12:34:00",
+                "validTo": null,
+                "vat": 0,
+                "grossPrice": 3999.0,
+                "vatRate": 0,
+                "vatCode": "C",
+                "currency": "HUF"
+              }
+            ],
+            "articleID": "02000000013558",
+            "printedTicketName": [
+              {
+                "languageCode": "HU",
+                "text": "GYERMEK / CHILDREN"
+              },
+              {
+                "languageCode": "EN",
+                "text": "CHILD"
+              },
+              {
+                "languageCode": "DE",
+                "text": "KINDER"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "GYERMEK / CHILDREN"
+              }
+            ],
+            "ticketInfo": [
+              {
+                "languageCode": "HU",
+                "text": "Érvényes 6 csúszásra\n",
+                "shortText": "Érvényes 6 csúszásra\n"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "Érvényes 6 csúszásra\n",
+                "shortText": "Érvényes 6 csúszásra\n"
+              }
+            ],
+            "ticketLayoutID": 45,
+            "count": 6
+          },
+          {
+            "id": "1",
+            "code": "11459",
+            "name": "Felnőtt 1",
+            "validFrom": "2021-02-08T00:00:00",
+            "validTo": null,
+            "operator": {
+              "id": "2f5e7ea3-42b3-405b-cc1a-08d9479277df",
+              "name": "Balatoni Bob",
+              "taxNumber": "00000000000"
+            },
+            "paymentModes": [
+              "CARD"
+            ],
+            "rules": {
+              "validityRule": null,
+              "connectionRule": null,
+              "salesRule": null
+            },
+            "prices": [
+              {
+                "id": "5e03c046-5ea7-4309-fb16-08d950df115f",
+                "netPrice": 799.0,
+                "validFrom": "2021-07-27T00:00:00",
+                "validTo": null,
+                "vat": 0,
+                "grossPrice": 799.0,
+                "vatRate": 0.0,
+                "vatCode": "C",
+                "currency": "HUF"
+              }
+            ],
+            "articleID": "5999861519606",
+            "printedTicketName": [
+              {
+                "languageCode": "HU",
+                "text": "FELNŐTT / ADULT"
+              },
+              {
+                "languageCode": "EN",
+                "text": "ADULT 1 slide"
+              },
+              {
+                "languageCode": "DE",
+                "text": "ERWACHSENE 1 fahrt"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "FELNŐTT / ADULT"
+              }
+            ],
+            "ticketInfo": [
+              {
+                "languageCode": "HU",
+                "text": "Érvényes 1 csúszásra\r\n",
+                "shortText": "Érvényes 1 csúszásra\r\n"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "Érvényes 1 csúszásra\r\n",
+                "shortText": "Érvényes 1 csúszásra\r\n"
+              }
+            ],
+            "ticketLayoutID": 45,
+            "inPrintMergeAble" : true,
+            "count": 1
+          },
+          {
+            "id": "5",
+            "code": "25513",
+            "name": "Gyerm 1",
+            "validFrom": "2021-02-08T00:00:00",
+            "validTo": null,
+            "operator": {
+              "id": "2f5e7ea3-42b3-405b-cc1a-08d9479277df",
+              "name": "Balatoni Bob",
+              "taxNumber": "00000000000"
+            },
+            "paymentModes": [
+              "CARD"
+            ],
+            "rules": {
+              "validityRule": null,
+              "connectionRule": null,
+              "salesRule": null
+            },
+            "prices": [
+              {
+                "id": "7bcb63f0-89a1-4e23-998b-7ec72fe92d15",
+                "netPrice": 699.0,
+                "validFrom": "2021-02-08T12:34:00",
+                "validTo": null,
+                "vat": 0,
+                "grossPrice": 699.0,
+                "vatRate": 0,
+                "vatCode": "C",
+                "currency": "HUF"
+              }
+            ],
+            "articleID": "02000000025513",
+            "printedTicketName": [
+              {
+                "languageCode": "HU",
+                "text": "GYERMEK / CHILDREN"
+              },
+              {
+                "languageCode": "EN",
+                "text": "CHILD 1 slide"
+              },
+              {
+                "languageCode": "DE",
+                "text": "KINDER 1 fahrt"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "GYERMEK / CHILDREN"
+              }
+            ],
+            "ticketInfo": [
+              {
+                "languageCode": "HU",
+                "text": "Érvényes 1 csúszásra\n",
+                "shortText": "Érvényes 1 csúszásra\n"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "Érvényes 1 csúszásra\n",
+                "shortText": "Érvényes 1 csúszásra\n"
+              }
+            ],
+            "ticketLayoutID": 45,
+            "inPrintMergeAble" : true,
+            "count": 1
+          },
+          {
+            "id": "13",
+            "code": "23311",
+            "name": "Felnőtt Családi 9",
+            "validFrom": "2021-02-08T00:00:00",
+            "validTo": null,
+            "operator": {
+              "id": "2f5e7ea3-42b3-405b-cc1a-08d9479277df",
+              "name": "Balatoni Bob",
+              "taxNumber": "00000000000"
+            },
+            "paymentModes": [
+              "CARD"
+            ],
+            "rules": {
+              "validityRule": null,
+              "connectionRule": null,
+              "salesRule": null
+            },
+            "prices": [
+              {
+                "id": "92a95bb4-9a79-496f-a4fa-a80ab81a075d",
+                "netPrice": 5333.51,
+                "validFrom": "2021-02-08T12:34:00",
+                "validTo": null,
+                "vat": 0,
+                "grossPrice": 5333.51,
+                "vatRate": 0,
+                "vatCode": "C",
+                "currency": "HUF"
+              }
+            ],
+            "articleID": "02000000023311",
+            "printedTicketName": [
+              {
+                "languageCode": "HU",
+                "text": "FELN/ADU CSALÁDI 9"
+              },
+              {
+                "languageCode": "EN",
+                "text": "ADULT FAM"
+              },
+              {
+                "languageCode": "DE",
+                "text": "ERWACHSENE FAM"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "FELN/ADU CSALÁDI 9"
+              }
+            ],
+            "ticketInfo": [
+              {
+                "languageCode": "HU",
+                "text": "Felnőtt családi 9\n",
+                "shortText": "Felnőtt családi 9\n"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "Felnőtt családi 9\n",
+                "shortText": "Felnőtt családi 9\n"
+              }
+            ],
+            "ticketLayoutID": 45,
+            "count": 9
+          },
+          {
+            "id": "14",
+            "code": "23311",
+            "name": "Gyermek Családi 9",
+            "validFrom": "2021-02-08T00:00:00",
+            "validTo": null,
+            "operator": {
+              "id": "2f5e7ea3-42b3-405b-cc1a-08d9479277df",
+              "name": "Balatoni Bob",
+              "taxNumber": "00000000000"
+            },
+            "paymentModes": [
+              "CARD"
+            ],
+            "rules": {
+              "validityRule": null,
+              "connectionRule": null,
+              "salesRule": null
+            },
+            "prices": [
+              {
+                "id": "92a95bb4-9a79-496f-a4fa-a80ab81a075d",
+                "netPrice": 4665.99,
+                "validFrom": "2021-02-08T12:34:00",
+                "validTo": null,
+                "vat": 0,
+                "grossPrice": 4665.99,
+                "vatRate": 0,
+                "vatCode": "C",
+                "currency": "HUF"
+              }
+            ],
+            "articleID": "02000000023311",
+            "printedTicketName": [
+              {
+                "languageCode": "HU",
+                "text": "GYER/CHI CSALÁDI 9"
+              },
+              {
+                "languageCode": "EN",
+                "text": "CHILD FAM."
+              },
+              {
+                "languageCode": "DE",
+                "text": "KINDER FAM."
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "GYER/CHI CSALÁDI 9"
+              }
+            ],
+            "ticketInfo": [
+              {
+                "languageCode": "HU",
+                "text": "Gyermek családi 9\n",
+                "shortText": "Gyermek családi 9\n"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "Gyermek családi 9\n",
+                "shortText": "Gyermek családi 9\n"
+              }
+            ],
+            "ticketLayoutID": 45,
+            "count": 9
+          },
+          {
+            "id": "15",
+            "code": "23311",
+            "name": "Felnőtt családi 11",
+            "validFrom": "2021-02-08T00:00:00",
+            "validTo": null,
+            "operator": {
+              "id": "2f5e7ea3-42b3-405b-cc1a-08d9479277df",
+              "name": "Balatoni Bob",
+              "taxNumber": "00000000000"
+            },
+            "paymentModes": [
+              "CARD"
+            ],
+            "rules": {
+              "validityRule": null,
+              "connectionRule": null,
+              "salesRule": null
+            },
+            "prices": [
+              {
+                "id": "92a95bb4-9a79-496f-a4fa-a80ab81a075d",
+                "netPrice": 7200.33,
+                "validFrom": "2021-02-08T12:34:00",
+                "validTo": null,
+                "vat": 0,
+                "grossPrice": 7200.33,
+                "vatRate": 0,
+                "vatCode": "C",
+                "currency": "HUF"
+              }
+            ],
+            "articleID": "02000000023311",
+            "printedTicketName": [
+              {
+                "languageCode": "HU",
+                "text": "FELN/ADU CSALÁDI 11"
+              },
+              {
+                "languageCode": "EN",
+                "text": "ADULT FAM."
+              },
+              {
+                "languageCode": "DE",
+                "text": "ERWA. FAM."
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "FELN/ADU CSALÁDI 11"
+              }
+            ],
+            "ticketInfo": [
+              {
+                "languageCode": "HU",
+                "text": "Felnőtt családi 11\n",
+                "shortText": "Felnőtt családi 11\n"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "Felnőtt családi 11\n",
+                "shortText": "Felnőtt családi 11\n"
+              }
+            ],
+            "ticketLayoutID": 45,
+            "count": 11
+          },
+          {
+            "id": "16",
+            "code": "23311",
+            "name": "Gyermek Családi 12",
+            "validFrom": "2021-02-08T00:00:00",
+            "validTo": null,
+            "operator": {
+              "id": "2f5e7ea3-42b3-405b-cc1a-08d9479277df",
+              "name": "Balatoni Bob",
+              "taxNumber": "00000000000"
+            },
+            "paymentModes": [
+              "CARD"
+            ],
+            "rules": {
+              "validityRule": null,
+              "connectionRule": null,
+              "salesRule": null
+            },
+            "prices": [
+              {
+                "id": "92a95bb4-9a79-496f-a4fa-a80ab81a075d",
+                "netPrice": 6299.17,
+                "validFrom": "2021-02-08T12:34:00",
+                "validTo": null,
+                "vat": 0,
+                "grossPrice": 6299.17,
+                "vatRate": 0,
+                "vatCode": "C",
+                "currency": "HUF"
+              }
+            ],
+            "articleID": "02000000023311",
+            "printedTicketName": [
+              {
+                "languageCode": "HU",
+                "text": "GYER/CHI CSALÁDI 11"
+              },
+              {
+                "languageCode": "EN",
+                "text": "CHILD FAM."
+              },
+              {
+                "languageCode": "DE",
+                "text": "KINDER FAM."
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "GYER/CHI CSALÁDI 11"
+              }
+            ],
+            "ticketInfo": [
+              {
+                "languageCode": "HU",
+                "text": "Gyermek családi 11\n",
+                "shortText": "Gyermek családi 11\n"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "Gyermek családi 11\n",
+                "shortText": "Gyermek családi 11\n"
+              }
+            ],
+            "ticketLayoutID": 45,
+            "count": 11
+          },
+          {
+            "id": "17",
+            "code": "23311",
+            "name": "Felnőtt Családi 14",
+            "validFrom": "2021-02-08T00:00:00",
+            "validTo": null,
+            "operator": {
+              "id": "2f5e7ea3-42b3-405b-cc1a-08d9479277df",
+              "name": "Balatoni Bob",
+              "taxNumber": "00000000000"
+            },
+            "paymentModes": [
+              "CARD"
+            ],
+            "rules": {
+              "validityRule": null,
+              "connectionRule": null,
+              "salesRule": null
+            },
+            "prices": [
+              {
+                "id": "92a95bb4-9a79-496f-a4fa-a80ab81a075d",
+                "netPrice": 8000.40,
+                "validFrom": "2021-02-08T12:34:00",
+                "validTo": null,
+                "vat": 0,
+                "grossPrice": 8000.40,
+                "vatRate": 0,
+                "vatCode": "C",
+                "currency": "HUF"
+              }
+            ],
+            "articleID": "02000000023311",
+            "printedTicketName": [
+              {
+                "languageCode": "HU",
+                "text": "FELN/ADU CSALÁDI 14"
+              },
+              {
+                "languageCode": "EN",
+                "text": "ADULT FAM."
+              },
+              {
+                "languageCode": "DE",
+                "text": "ERWA. FAM."
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "FELN/ADU CSALÁDI 14"
+              }
+            ],
+            "ticketInfo": [
+              {
+                "languageCode": "HU",
+                "text": "Felnőtt családi 14\n",
+                "shortText": "Felnőtt családi 14\n"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "Felnőtt családi 14\n",
+                "shortText": "Felnőtt családi 14\n"
+              }
+            ],
+            "ticketLayoutID": 45,
+            "count": 14
+          },
+          {
+            "id": "18",
+            "code": "23311",
+            "name": "Gyermek Családi 14",
+            "validFrom": "2021-02-08T00:00:00",
+            "validTo": null,
+            "operator": {
+              "id": "2f5e7ea3-42b3-405b-cc1a-08d9479277df",
+              "name": "Balatoni Bob",
+              "taxNumber": "00000000000"
+            },
+            "paymentModes": [
+              "CARD"
+            ],
+            "rules": {
+              "validityRule": null,
+              "connectionRule": null,
+              "salesRule": null
+            },
+            "prices": [
+              {
+                "id": "92a95bb4-9a79-496f-a4fa-a80ab81a075d",
+                "netPrice": 6999.10,
+                "validFrom": "2021-02-08T12:34:00",
+                "validTo": null,
+                "vat": 0,
+                "grossPrice": 6999.10,
+                "vatRate": 0,
+                "vatCode": "C",
+                "currency": "HUF"
+              }
+            ],
+            "articleID": "02000000023311",
+            "printedTicketName": [
+              {
+                "languageCode": "HU",
+                "text": "GYER/CHI CSALÁDI 14"
+              },
+              {
+                "languageCode": "EN",
+                "text": "CHILD FAM."
+              },
+              {
+                "languageCode": "DE",
+                "text": "KINDER FAM."
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "GYER/CHI CSALÁDI 14"
+              }
+            ],
+            "ticketInfo": [
+              {
+                "languageCode": "HU",
+                "text": "Gyermek családi 14\n",
+                "shortText": "Gyermek családi 14\n"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "Gyermek családi 14\n",
+                "shortText": "Gyermek családi 14\n"
+              }
+            ],
+            "ticketLayoutID": 45,
+            "count": 14
+          },
+          {
+            "id": "19",
+            "code": "23311",
+            "name": "Fénykép Kupon 12",
+            "validFrom": "2021-02-08T00:00:00",
+            "validTo": null,
+            "operator": {
+              "id": "2f5e7ea3-42b3-405b-cc1a-08d9479277df",
+              "name": "Balatoni Bob",
+              "taxNumber": "00000000000"
+            },
+            "paymentModes": [
+              "CARD"
+            ],
+            "rules": {
+              "validityRule": null,
+              "connectionRule": null,
+              "salesRule": null
+            },
+            "prices": [
+              {
+                "id": "92a95bb4-9a79-496f-a4fa-a80ab81a075d",
+                "netPrice": 0.0,
+                "validFrom": "2021-02-08T12:34:00",
+                "validTo": null,
+                "vat": 0,
+                "grossPrice": 0.0,
+                "vatRate": 0,
+                "vatCode": "C",
+                "currency": "HUF"
+              }
+            ],
+            "articleID": "02000000023311",
+            "printedTicketName": [
+              {
+                "languageCode": "HU",
+                "text": "KÉNYKÉP KUPON"
+              },
+              {
+                "languageCode": "EN",
+                "text": "PHOTO COUPON"
+              },
+              {
+                "languageCode": "DE",
+                "text": "PHOTO COUPON"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "KÉNYKÉP KUPON"
+              }
+            ],
+            "ticketInfo": [
+              {
+                "languageCode": "HU",
+                "text": "Fénykép kupon\n",
+                "shortText": "Fénykép kupon\n"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "Fénykép kupon\n",
+                "shortText": "Fénykép kupon\n"
+              }
+            ],
+            "ticketLayoutID": 45,
+            "count": 1
+          },
+          {
+            "id": "20",
+            "code": "23311",
+            "name": "Kisérő jegy",
+            "validFrom": "2021-02-08T00:00:00",
+            "validTo": null,
+            "operator": {
+              "id": "2f5e7ea3-42b3-405b-cc1a-08d9479277df",
+              "name": "Balatoni Bob",
+              "taxNumber": "00000000000"
+            },
+            "paymentModes": [
+              "CARD"
+            ],
+            "rules": {
+              "validityRule": null,
+              "connectionRule": null,
+              "salesRule": null
+            },
+            "prices": [
+              {
+                "id": "92a95bb4-9a79-496f-a4fa-a80ab81a075d",
+                "netPrice": 0.0,
+                "validFrom": "2021-02-08T12:34:00",
+                "validTo": null,
+                "vat": 0,
+                "grossPrice": 0.0,
+                "vatRate": 0,
+                "vatCode": "C",
+                "currency": "HUF"
+              }
+            ],
+            "articleID": "02000000023311",
+            "printedTicketName": [
+              {
+                "languageCode": "HU",
+                "text": "KÍSÉRŐ JEGY"
+              },
+              {
+                "languageCode": "EN",
+                "text": ""
+              },
+              {
+                "languageCode": "DE",
+                "text": ""
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "KÍSÉRŐ JEGY"
+              }
+            ],
+            "ticketInfo": [
+              {
+                "languageCode": "HU",
+                "text": "Kísérő jegy\n",
+                "shortText": "Kísérő jegy\n"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "Kísérő jegy\n",
+                "shortText": "Kísérő jegy\n"
+              }
+            ],
+            "ticketLayoutID": 45,
+            "count": 1
+          },
+          {
+            "id": "35",
+            "code": "23311",
+            "name": "GY40-",
+            "validFrom": "2021-02-08T00:00:00",
+            "validTo": null,
+            "operator": {
+              "id": "2f5e7ea3-42b3-405b-cc1a-08d9479277df",
+              "name": "Balatoni Bob",
+              "taxNumber": "00000000000"
+            },
+            "paymentModes": [
+              "CARD"
+            ],
+            "rules": {
+              "validityRule": null,
+              "connectionRule": null,
+              "salesRule": null
+            },
+            "prices": [
+              {
+                "id": "92a95bb4-9a79-496f-a4fa-a80ab81a075d",
+                "netPrice": 1499.0,
+                "validFrom": "2021-02-08T12:34:00",
+                "validTo": null,
+                "vat": 0,
+                "grossPrice": 1499.0,
+                "vatRate": 0,
+                "vatCode": "C",
+                "currency": "HUF"
+              }
+            ],
+            "articleID": "02000000023311",
+            "printedTicketName": [
+              {
+                "languageCode": "HU",
+                "text": "GYERMEK 40- CHILD"
+              },
+              {
+                "languageCode": "EN",
+                "text": ""
+              },
+              {
+                "languageCode": "DE",
+                "text": ""
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "GYERMEK 40+ CHILD"
+              }
+            ],
+            "ticketInfo": [
+              {
+                "languageCode": "HU",
+                "text": "Gyermek 3 csúszás\n",
+                "shortText": "Gyermek 3 csúszás\n"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "Gyermek 3 csúszás\n",
+                "shortText": "Gyermek 3 csúszás\n"
+              }
+            ],
+            "ticketLayoutID": 45,
+            "count": 1
+          },
+          {
+            "id": "36",
+            "code": "23311",
+            "name": "F40-",
+            "validFrom": "2021-02-08T00:00:00",
+            "validTo": null,
+            "operator": {
+              "id": "2f5e7ea3-42b3-405b-cc1a-08d9479277df",
+              "name": "Balatoni Bob",
+              "taxNumber": "00000000000"
+            },
+            "paymentModes": [
+              "CARD"
+            ],
+            "rules": {
+              "validityRule": null,
+              "connectionRule": null,
+              "salesRule": null
+            },
+            "prices": [
+              {
+                "id": "92a95bb4-9a79-496f-a4fa-a80ab81a075d",
+                "netPrice": 1899.0,
+                "validFrom": "2021-02-08T12:34:00",
+                "validTo": null,
+                "vat": 0,
+                "grossPrice": 1899.0,
+                "vatRate": 0,
+                "vatCode": "C",
+                "currency": "HUF"
+              }
+            ],
+            "articleID": "02000000023311",
+            "printedTicketName": [
+              {
+                "languageCode": "HU",
+                "text": "FELNŐTT 40- CHILD"
+              },
+              {
+                "languageCode": "EN",
+                "text": ""
+              },
+              {
+                "languageCode": "DE",
+                "text": ""
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "FELNŐTT 40- CHILD"
+              }
+            ],
+            "ticketInfo": [
+              {
+                "languageCode": "HU",
+                "text": "Felnőtt 3 csúszás\n",
+                "shortText": "Felnőtt 3 csúszás\n"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "Felnőtt 3 csúszás\n",
+                "shortText": "Felnőtt 3 csúszás\n"
+              }
+            ],
+            "ticketLayoutID": 45,
+            "count": 1
+          },
+          {
+            "id": "37",
+            "code": "23311",
+            "name": "GY40+",
+            "validFrom": "2021-02-08T00:00:00",
+            "validTo": null,
+            "operator": {
+              "id": "2f5e7ea3-42b3-405b-cc1a-08d9479277df",
+              "name": "Balatoni Bob",
+              "taxNumber": "00000000000"
+            },
+            "paymentModes": [
+              "CARD"
+            ],
+            "rules": {
+              "validityRule": null,
+              "connectionRule": null,
+              "salesRule": null
+            },
+            "prices": [
+              {
+                "id": "92a95bb4-9a79-496f-a4fa-a80ab81a075d",
+                "netPrice": 1399.0,
+                "validFrom": "2021-02-08T12:34:00",
+                "validTo": null,
+                "vat": 0,
+                "grossPrice": 1399.0,
+                "vatRate": 0,
+                "vatCode": "C",
+                "currency": "HUF"
+              }
+            ],
+            "articleID": "02000000023311",
+            "printedTicketName": [
+              {
+                "languageCode": "HU",
+                "text": "GYERMEK 40+ CHILD"
+              },
+              {
+                "languageCode": "EN",
+                "text": ""
+              },
+              {
+                "languageCode": "DE",
+                "text": ""
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "GYERMEK 40+ CHILD"
+              }
+            ],
+            "ticketInfo": [
+              {
+                "languageCode": "HU",
+                "text": "Gyermek 3 csúszás\n",
+                "shortText": "Gyermek 3 csúszás\n"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "Gyermek 3 csúszás\n",
+                "shortText": "Gyermek 3 csúszás\n"
+              }
+            ],
+            "ticketLayoutID": 45,
+            "count": 1
+          },
+          {
+            "id": "38",
+            "code": "23311",
+            "name": "F40+",
+            "validFrom": "2021-02-08T00:00:00",
+            "validTo": null,
+            "operator": {
+              "id": "2f5e7ea3-42b3-405b-cc1a-08d9479277df",
+              "name": "Balatoni Bob",
+              "taxNumber": "00000000000"
+            },
+            "paymentModes": [
+              "CARD"
+            ],
+            "rules": {
+              "validityRule": null,
+              "connectionRule": null,
+              "salesRule": null
+            },
+            "prices": [
+              {
+                "id": "92a95bb4-9a79-496f-a4fa-a80ab81a075d",
+                "netPrice": 1799.0,
+                "validFrom": "2021-02-08T12:34:00",
+                "validTo": null,
+                "vat": 0,
+                "grossPrice": 1799.0,
+                "vatRate": 0,
+                "vatCode": "C",
+                "currency": "HUF"
+              }
+            ],
+            "articleID": "02000000023311",
+            "printedTicketName": [
+              {
+                "languageCode": "HU",
+                "text": "FELNŐTT 40+ CHILD"
+              },
+              {
+                "languageCode": "EN",
+                "text": ""
+              },
+              {
+                "languageCode": "DE",
+                "text": ""
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "FELNŐTT 40+ CHILD"
+              }
+            ],
+            "ticketInfo": [
+              {
+                "languageCode": "HU",
+                "text": "Felnőtt 3 csúszás\n",
+                "shortText": "Felnőtt 3 csúszás\n"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "Felnőtt 3 csúszás\n",
+                "shortText": "Felnőtt 3 csúszás\n"
+              }
+            ],
+            "ticketLayoutID": 45,
+            "count": 1
+          }
+        ],
+        "menuStructure": {
+          "id": "4cad4643-da39-47e3-7799-08d97a6823a8",
+          "menu": {
+            "displayText": [
+              {
+                "languageCode": "HU",
+                "text": "Főmenü",
+                "shortText": "Főmenü"
+              },
+              {
+                "languageCode": "DEFAULT",
+                "text": "Főmenü",
+                "shortText": "Főmenü"
+              }
+            ],
+            "menuType": "Root",
+            "ticketTypeID": null,
+            "displayParams": null,
+            "items": [
+              {
+                "displayText": [
+                  {
+                    "languageCode": "HU",
+                    "text": "Hintóka",
+                    "shortText": "Hintóka"
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "Hintóka",
+                    "shortText": "Hintóka"
+                  }
+                ],
+                "menuType": "MenuItem",
+                "ticketTypeID": "9",
+                "displayParams": {
+                  "DisplayColor": "#8527f9",
+                  "DisplayFont": {
+                    "FontColor": "#FF1E2832",
+                    "FontName": "BarlowCondensed_SemiBold.ttf",
+                    "FontSize": 43,
+                    "FontStyle": "NORMAL"
+                  },
+                  "DisplayOrder": 1,
+                  "FastBuy": false,
+                  "Divider": false
+                },
+                "items": [
+                ],
+                "displayOrder": 1
+              },
+              {
+                "displayText": [
+                  {
+                    "languageCode": "HU",
+                    "text": "Visszatérő",
+                    "shortText": "Visszatérő"
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "Visszatérő",
+                    "shortText": "Visszatérő"
+                  }
+                ],
+                "menuType": "MenuItem",
+                "ticketTypeID": "10",
+                "displayParams": {
+                  "DisplayColor": "#04d8d0",
+                  "DisplayFont": {
+                    "FontColor": "#FF1E2832",
+                    "FontName": "BarlowCondensed_SemiBold.ttf",
+                    "FontSize": 43,
+                    "FontStyle": "NORMAL"
+                  },
+                  "DisplayOrder": 2,
+                  "FastBuy": false,
+                  "Divider": false
+                },
+                "items": [
+                ],
+                "displayOrder": 2
+              },
+              {
+                "displayText": [
+                  {
+                    "languageCode": "HU",
+                    "text": "F csop 1",
+                    "shortText": "F csop 1"
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "F csop 1",
+                    "shortText": "F csop 1"
+                  }
+                ],
+                "menuType": "MenuItem",
+                "ticketTypeID": "4",
+                "displayParams": {
+                  "DisplayColor": "#b03354",
+                  "DisplayFont": {
+                    "FontColor": "#FF1E2832",
+                    "FontName": "BarlowCondensed_SemiBold.ttf",
+                    "FontSize": 43,
+                    "FontStyle": "NORMAL"
+                  },
+                  "DisplayOrder": 3,
+                  "FastBuy": false,
+                  "Divider": false
+                },
+                "items": [
+                ],
+                "displayOrder": 3
+              },
+              {
+                "displayText": [
+                  {
+                    "languageCode": "HU",
+                    "text": "Gy csop 1",
+                    "shortText": "Gy csop 1"
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "Gy csop 1",
+                    "shortText": "Gy csop 1"
+                  }
+                ],
+                "menuType": "MenuItem",
+                "ticketTypeID": "8",
+                "displayParams": {
+                  "DisplayColor": "#b03354",
+                  "DisplayFont": {
+                    "FontColor": "#FF1E2832",
+                    "FontName": "BarlowCondensed_SemiBold.ttf",
+                    "FontSize": 43,
+                    "FontStyle": "NORMAL"
+                  },
+                  "DisplayOrder": 4,
+                  "FastBuy": false,
+                  "Divider": false
+                },
+                "items": [
+                ],
+                "order": 4
+              },
+              {
+                "displayText": [
+                  {
+                    "languageCode": "HU",
+                    "text": "Felnőtt 12",
+                    "shortText": "Felnőtt 12"
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "Felnőtt 12",
+                    "shortText": "Felnőtt 12"
+                  }
+                ],
+                "menuType": "MenuItem",
+                "ticketTypeID": "3",
+                "displayParams": {
+                  "DisplayColor": "#ffff00",
+                  "DisplayFont": {
+                    "FontColor": "#FF1E2832",
+                    "FontName": "BarlowCondensed_SemiBold.ttf",
+                    "FontSize": 43,
+                    "FontStyle": "NORMAL"
+                  },
+                  "DisplayOrder": 5,
+                  "FastBuy": false,
+                  "Divider": false
+                },
+                "items": [
+                ],
+                "displayOrder": 5
+              },
+              {
+                "displayText": [
+                  {
+                    "languageCode": "HU",
+                    "text": "Gyerm 12",
+                    "shortText": "Gyerm 12"
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "Gyerm 12",
+                    "shortText": "Gyerm 12"
+                  }
+                ],
+                "menuType": "MenuItem",
+                "ticketTypeID": "7",
+                "displayParams": {
+                  "DisplayColor": "#ffff00",
+                  "DisplayFont": {
+                    "FontColor": "#FF1E2832",
+                    "FontName": "BarlowCondensed_SemiBold.ttf",
+                    "FontSize": 43,
+                    "FontStyle": "NORMAL"
+                  },
+                  "DisplayOrder": 6,
+                  "FastBuy": false,
+                  "Divider": false
+                },
+                "items": [
+                ],
+                "displayOrder": 6
+              },
+              {
+                "displayText": [
+                  {
+                    "languageCode": "HU",
+                    "text": "Felnőtt 6",
+                    "shortText": "Felnőtt 6"
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "Felnőtt 6",
+                    "shortText": "Felnőtt 6"
+                  }
+                ],
+                "menuType": "MenuItem",
+                "ticketTypeID": "2",
+                "displayParams": {
+                  "DisplayColor": "#ffa500",
+                  "DisplayFont": {
+                    "FontColor": "#FF1E2832",
+                    "FontName": "BarlowCondensed_SemiBold.ttf",
+                    "FontSize": 43,
+                    "FontStyle": "NORMAL"
+                  },
+                  "DisplayOrder": 7,
+                  "FastBuy": false,
+                  "Divider": false
+                },
+                "items": [
+                ],
+                "displayOrder": 7
+              },
+              {
+                "displayText": [
+                  {
+                    "languageCode": "HU",
+                    "text": "Gyerm 6",
+                    "shortText": "Gyerm 6"
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "Gyerm 6",
+                    "shortText": "Gyerm 6"
+                  }
+                ],
+                "menuType": "MenuItem",
+                "ticketTypeID": "6",
+                "displayParams": {
+                  "DisplayColor": "#ffa500",
+                  "DisplayFont": {
+                    "FontColor": "#FF1E2832",
+                    "FontName": "BarlowCondensed_SemiBold.ttf",
+                    "FontSize": 43,
+                    "FontStyle": "NORMAL"
+                  },
+                  "DisplayOrder": 8,
+                  "FastBuy": false,
+                  "Divider": false
+                },
+                "items": [
+                ],
+                "displayOrder": 8
+              },
+              {
+                "displayText": [
+                  {
+                    "languageCode": "HU",
+                    "text": "Felnőtt 1",
+                    "shortText": "Felnőtt 1"
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "Felnőtt 1",
+                    "shortText": "Felnőtt 1"
+                  }
+                ],
+                "menuType": "MenuItem",
+                "ticketTypeID": "1",
+                "displayParams": {
+                  "DisplayColor": "#0155de",
+                  "DisplayFont": {
+                    "FontColor": "#FF1E2832",
+                    "FontName": "BarlowCondensed_SemiBold.ttf",
+                    "FontSize": 43,
+                    "FontStyle": "NORMAL"
+                  },
+                  "DisplayOrder": 9,
+                  "FastBuy": false,
+                  "Divider": false
+                },
+                "items": [
+                ],
+                "displayOrder": 9
+              },
+              {
+                "displayText": [
+                  {
+                    "languageCode": "HU",
+                    "text": "Gyerm 1",
+                    "shortText": "Gyerm 1"
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "Gyerm 1",
+                    "shortText": "Gyerm 1"
+                  }
+                ],
+                "menuType": "MenuItem",
+                "ticketTypeID": "5",
+                "displayParams": {
+                  "DisplayColor": "#0155de",
+                  "DisplayFont": {
+                    "FontColor": "#FF1E2832",
+                    "FontName": "BarlowCondensed_SemiBold.ttf",
+                    "FontSize": 43,
+                    "FontStyle": "NORMAL"
+                  },
+                  "DisplayOrder": 10,
+                  "FastBuy": false,
+                  "Divider": false
+                },
+                "items": [
+                ],
+                "displayOrder": 10
+              },
+              {
+                "displayText": [
+                  {
+                    "languageCode": "HU",
+                    "text": "S CS 4x9",
+                    "shortText": "S CS 4x9"
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "S CS 4x9",
+                    "shortText": "S CS 4x9"
+                  }
+                ],
+                "menuType": "Package",
+                "ticketTypeID": null,
+                "displayParams": {
+                  "DisplayColor": "#FFF78F1e",
+                  "DisplayFont": {
+                    "FontColor": "#FF1E2832",
+                    "FontName": "BarlowCondensed_SemiBold.ttf",
+                    "FontSize": 43,
+                    "FontStyle": "NORMAL"
+                  },
+                  "DisplayOrder": 2,
+                  "FastBuy": false,
+                  "Divider": false
+                },
+                "items": [
+                ],
+                "displayOrder": 7,
+                "packageEditingRules": {
+                  "code": "PER_FAMILY",
+                  "param1": "{ packet_id: 11, ticketIds: [13,13,14,14]}",
+                  "param2": "1",
+                  "param3": "19300",
+                  "param4": "19300"
+                }
+              },
+              {
+                "displayText": [
+                  {
+                    "languageCode": "HU",
+                    "text": "M CS 4x11",
+                    "shortText": "M CS 4x11"
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "M CS 4x11",
+                    "shortText": "M CS 4x11"
+                  }
+                ],
+                "menuType": "Package",
+                "ticketTypeID": null,
+                "displayParams": {
+                  "DisplayColor": "#FFF78F1e",
+                  "DisplayFont": {
+                    "FontColor": "#FF1E2832",
+                    "FontName": "BarlowCondensed_SemiBold.ttf",
+                    "FontSize": 43,
+                    "FontStyle": "NORMAL"
+                  },
+                  "DisplayOrder": 2,
+                  "FastBuy": false,
+                  "Divider": false
+                },
+                "items": [
+                ],
+                "displayOrder": 8,
+                "packageEditingRules": {
+                  "code": "PER_FAMILY",
+                  "param1": "{ ticketIds: [15,15,16,16]}",
+                  "param2": "1",
+                  "param3": "2000",
+                  "param4": "2000"
+                }
+              },
+              {
+                "displayText": [
+                  {
+                    "languageCode": "HU",
+                    "text": "L CS 4x14",
+                    "shortText": "L CS 4x14"
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "L CS 4x14",
+                    "shortText": "L CS 4x14"
+                  }
+                ],
+                "menuType": "Package",
+                "ticketTypeID": null,
+                "displayParams": {
+                  "DisplayColor": "#FFF78F1e",
+                  "DisplayFont": {
+                    "FontColor": "#FF1E2832",
+                    "FontName": "BarlowCondensed_SemiBold.ttf",
+                    "FontSize": 43,
+                    "FontStyle": "NORMAL"
+                  },
+                  "DisplayOrder": 2,
+                  "FastBuy": false,
+                  "Divider": false
+                },
+                "items": [
+                ],
+                "displayOrder": 9,
+                "packageEditingRules": {
+                  "code": "PER_FAMILY",
+                  "param1": "{ ticketIds: [17,17,18,18,19]}",
+                  "param2": "1",
+                  "param3": "2000",
+                  "param4": "2000"
+                }
+              },
+              {
+                "displayText": [
+                  {
+                    "languageCode": "HU",
+                    "text": "INGY 1",
+                    "shortText": "INGY 1"
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "INGY 1",
+                    "shortText": "INGY 1"
+                  }
+                ],
+                "menuType": "Package",
+                "ticketTypeID": null,
+                "displayParams": {
+                  "DisplayColor": "#FFF78F1e",
+                  "DisplayFont": {
+                    "FontColor": "#FF1E2832",
+                    "FontName": "BarlowCondensed_SemiBold.ttf",
+                    "FontSize": 43,
+                    "FontStyle": "NORMAL"
+                  },
+                  "DisplayOrder": 2,
+                  "FastBuy": false,
+                  "Divider": false
+                },
+                "items": [
+                ],
+                "displayOrder": 9,
+                "packageEditingRules": {
+                  "code": "PER_FAMILY",
+                  "param1": "{ ticketIds: [20]}",
+                  "param2": "1",
+                  "param3": "2000",
+                  "param4": "2000"
+                }
+              },
+              {
+                "displayText": [
+                  {
+                    "languageCode": "HU",
+                    "text": "F1 GY1",
+                    "shortText": "F1 GY1"
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "F1 GY1",
+                    "shortText": "F1 GY1"
+                  }
+                ],
+                "menuType": "Package",
+                "ticketTypeID": null,
+                "displayParams": {
+                  "DisplayColor": "#FFF78F1e",
+                  "DisplayFont": {
+                    "FontColor": "#FF1E2832",
+                    "FontName": "BarlowCondensed_SemiBold.ttf",
+                    "FontSize": 43,
+                    "FontStyle": "NORMAL"
+                  },
+                  "DisplayOrder": 2,
+                  "FastBuy": false,
+                  "Divider": false
+                },
+                "items": [
+                ],
+                "displayOrder": 9,
+                "packageEditingRules": {
+                  "code": "PER_FAMILY",
+                  "param1": "{ ticketIds: [1,5]}",
+                  "param2": "1",
+                  "param3": "2000",
+                  "param4": "2000"
+                }
+              },
+              {
+                "displayText": [
+                  {
+                    "languageCode": "HU",
+                    "text": "GY40+",
+                    "shortText": "GY40+"
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "GY40+",
+                    "shortText": "GY40+"
+                  }
+                ],
+                "menuType": "Package",
+                "ticketTypeID": null,
+                "displayParams": {
+                  "DisplayColor": "#FFF78F1e",
+                  "DisplayFont": {
+                    "FontColor": "#FF1E2832",
+                    "FontName": "BarlowCondensed_SemiBold.ttf",
+                    "FontSize": 43,
+                    "FontStyle": "NORMAL"
+                  },
+                  "DisplayOrder": 2,
+                  "FastBuy": false,
+                  "Divider": false
+                },
+                "items": [
+                ],
+                "displayOrder": 9,
+                "packageEditingRules": {
+                  "code": "PER_FAMILY",
+                  "param1": "{ ticketIds: [37]}",
+                  "param2": "1",
+                  "param3": "2000",
+                  "param4": "2000"
+                }
+              },
+              {
+                "displayText": [
+                  {
+                    "languageCode": "HU",
+                    "text": "GY40-",
+                    "shortText": "GY40-"
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "GY40-",
+                    "shortText": "GY40-"
+                  }
+                ],
+                "menuType": "Package",
+                "ticketTypeID": null,
+                "displayParams": {
+                  "DisplayColor": "#FFF78F1e",
+                  "DisplayFont": {
+                    "FontColor": "#FF1E2832",
+                    "FontName": "BarlowCondensed_SemiBold.ttf",
+                    "FontSize": 43,
+                    "FontStyle": "NORMAL"
+                  },
+                  "DisplayOrder": 2,
+                  "FastBuy": false,
+                  "Divider": false
+                },
+                "items": [
+                ],
+                "displayOrder": 9,
+                "packageEditingRules": {
+                  "code": "PER_FAMILY",
+                  "param1": "{ ticketIds: [35]}",
+                  "param2": "1",
+                  "param3": "2000",
+                  "param4": "2000"
+                }
+              },
+              {
+                "displayText": [
+                  {
+                    "languageCode": "HU",
+                    "text": "F40+",
+                    "shortText": "F40+"
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "F40+",
+                    "shortText": "F40+"
+                  }
+                ],
+                "menuType": "Package",
+                "ticketTypeID": null,
+                "displayParams": {
+                  "DisplayColor": "#FFF78F1e",
+                  "DisplayFont": {
+                    "FontColor": "#FF1E2832",
+                    "FontName": "BarlowCondensed_SemiBold.ttf",
+                    "FontSize": 43,
+                    "FontStyle": "NORMAL"
+                  },
+                  "DisplayOrder": 2,
+                  "FastBuy": false,
+                  "Divider": false
+                },
+                "items": [
+                ],
+                "displayOrder": 9,
+                "packageEditingRules": {
+                  "code": "PER_FAMILY",
+                  "param1": "{ ticketIds: [38]}",
+                  "param2": "1",
+                  "param3": "2000",
+                  "param4": "2000"
+                }
+              },
+              {
+                "displayText": [
+                  {
+                    "languageCode": "HU",
+                    "text": "F40-",
+                    "shortText": "F40-"
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "F40-",
+                    "shortText": "F40-"
+                  }
+                ],
+                "menuType": "Package",
+                "ticketTypeID": null,
+                "displayParams": {
+                  "DisplayColor": "#FFF78F1e",
+                  "DisplayFont": {
+                    "FontColor": "#FF1E2832",
+                    "FontName": "BarlowCondensed_SemiBold.ttf",
+                    "FontSize": 43,
+                    "FontStyle": "NORMAL"
+                  },
+                  "DisplayOrder": 2,
+                  "FastBuy": false,
+                  "Divider": false
+                },
+                "items": [
+                ],
+                "displayOrder": 9,
+                "packageEditingRules": {
+                  "code": "PER_FAMILY",
+                  "param1": "{ ticketIds: [36]}",
+                  "param2": "1",
+                  "param3": "2000",
+                  "param4": "2000"
+                }
+              }
+            ],
+            "order": 1
+          }
+        },
+        "printLayouts": [
+          {
+            "id": 45,
+            "width": 54,
+            "height": 80,
+            "name": "BOB jegy automatából",
+            "rotate": -90,
+            "labels": [
+              {
+                "id": 1377,
+                "layoutDataName": "PICTURE",
+                "layoutDataType": "Image",
+                "inputType": "STATIC",
+                "posX": 3,
+                "posY": 0,
+                "width": 0,
+                "height": 0,
+                "borderStyle": "NONE",
+                "borderWidth": 0,
+                "fontName": null,
+                "fontSize": 0,
+                "fontTypography": "BOLD",
+                "formatString": null,
+                "horizontalAlign": "LEFT",
+                "verticalAlign": "TOP",
+                "zOrder": 0,
+                "isRequired": false,
+                "pictureContent": "iVBORw0KGgoAAAANSUhEUgAAASwAAAC5CAIAAAAdw5VmAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAGHBSURBVHhe7Z13gFTF0vbv+90rOSN5yWnJOQiCgCIokiVnVEQJkiRnEJAcJCOIZARJgoKIIEFRUILknEGSJOXCfd/7/eY8h3ZYlt1zdpfdGZznj97q6upc1VV95szs//z3v//9RwABBBBzCBhhAP4BFBX8jwUp7f/93//9v//3/8SHUFbCgpEkhTbyKrJEQse9e/f+93//948//kD47t27ENS9du0a/Fu3blWtWlU92tKRRsAIA/APeCuqLAriUaMyYiJIZS0QyPz73//GkP7880+lt2/fxtiuXLkCffPmzd9//x2TO3/+PKUQlP7nP/+BeefOHQSoTiOJEiXaunWraTZKEDDCAPwGMjxZIDZAKtsjvXHjBpqMIWE5mBAEZoP9yIQuXbqEB8PY7t+/jx1ieFgXHLIQNAWHdmTSNPuvf/1LfZFVd0rhJ0iQYPPmzWQRVu+RR8AIA3gIUjtDGPUQbVIxHxVWqlJvWjAy0KbIcARvGr0nCMRsMCr5K1KMCkvD6ogSL1++DE2p7EpGBQ0huzKtqTv1pVRF0ABCWVKVQgNTJJuEiBs37rp165IkSWJkIo+QyxTA3xwelbRirRCKQVYKCi2lJAUqFSGv8mhdhOGQIgAhg8FHYV3Y0vXr17EiCICZXb16lSyWBkFW8gK94OVo0PQb/YgdO/ayZcuCgoKYps2KNAJGGMBDkMH885//JEXXpR6GELAHCcjtkMrzYCEA+8HAcFN4LdyUbAm7wqchhu/C6jA/GZI8DDCmq76AtwC0AO1dGv3ACBcuXJg9e3Y7HxUIGGEADwGlR78xEgwGYEUwsSKsC9PiHiUfRYo53b17VwaGGEUIUAWNkkWRhrAxY0Wk0Nittz+BY2SAERMTIC+md61oBtfCiRMnlipVCpohiRlJBIwwBsCao52hapIUTqmyUl+VqhapHJEEvOUNDFOp1B0amwHYGJ4KgyElCMR+8E4QpECBIqWkGBvmh4CME6h9mlLLygqGE6IIGo7oEBOXpLdAGECGuiFMNzqhAYwbN658+fJkGbb4kYSjyQcQ5fBedvYS1bQzXvZj5710WrUe3Xt5JCwKQg8wMCS8E1m8lgkOrWjxHtYFH1WWKapxk4qw2w0gNAwePLh69epRuEoBI4wxSN0xBlLvHYU2bgdzwhfhnbAo7lQEfjglXBa2hFHpAQZhIXbFxYxaMjAIDIwzW40ASklNs3ZP//iHPCpjsPMPLBwOReIEYMDisIbvv/9+8+bNbVZUIGCETxxsm1F0UuwBAuPBWi5dukTpuXPnsDGAOWE8WBe+C8Mjq1rYA2LGYGQecDAzrI5bCm2ShthKsiiNmDItcUxERwvKQqg1pUbS00oAD4OVadeuXatWrbRQUYKnzQiZDkCBgKamLITUV3pmmCCEpLeAtxgwTGhJov2YDVlcEzRdYDzEeKT4K2xJr19AeK5i1vN3XcOs9gLwS9SpU6dPnz4BIwwL3jMyBiPjIfXmC9BAfgYggznhpgQsRwSWA01MKK/122+/WWblAXYIB+dGfCgDtpt+YLcQsn9xrJIA/BLsZsWKFUeOHAmhnY08nk4jBCxQiKnBwU6I3zAYLAePhIPC3vBa2Bj2oyfveoAhw0MYPlnksS6sSM2SQj/u5SbsDcLwIVQENCTDD8C/oB0sXrz4jBkzfMgTSp/C1iojA22ElX2U401Y5Z7qIrxhSgVMBXd0ywI2pueBpPDBxYsXyXIBoynsCpMgVQAJrd7VjvoyA4AwoSmSYprUG5IhBSarIlNFNzGKQnhL/4JGrsmKYGVCaCRZJksRSJs2bcaMGWHu2LGDZYfw67kzo/Tp069ZswbC5kYa9lK6BbU0INGexbY2Q/shPiBLqh0yTG2PmNQVEwJOiCxGgiHhnUjxV3piQVafaImQpdGgLEqgC7J6gBFA1EJbwyJDs+xkgZYaJpwUKVIUKlQoODg4T548mTNnTpgwYaxYsRBYsmTJ4MGDVcVqyf+gkXOsrFq1Kk6cOGJGHhE3QlbcWJcaEWGyRgB7EIwXgsZycFlYEUEgTun8+fPwyXLpQubs2bP4Ltya2W/ThUnhAAmYUkFZUmiIAKIWWljSeBaSJUuWLVs2rC5r1qy5cuXCCFXq2QmLANS6fPnya6+9RpCvrD+CkaNvyZMnX7FiReLEiW1upGHrq1uoFhEgPof7ElYEgWuCwHLg4KAAZsbSkwWyOoATQ0ymxZTMhtEC56VozZYUWB16AF9ECCZZkwLagU/7AU/4JMA6a2vKli1bq1atnDlzpkmTRh+QAG2BxCRvshcuXKhWrRpbbwlGROt8AYw8adKky5cvf/bZZ21WpBG+EVor9t+TJ0/u27cPu+IkO336NCnBIb4LAttD47E9CBkA8tontRAC8LUxIQDTVKFBtWC2EEIChhkGEGAktGDnA4gotNo60aDhaPErVqw4aNCguHHjkhVHCGN3zp07V6lSJQTC0A3fB4NPkCDB3Llzs2TJYrMijfCNUNq8YMGCYcOGSZhUhF+vZgDhgv3VqWo2GmvExkjnz59foEAB+JagIxw/fhxPCEELfqo2rAaHEUfPrFmz8ubNa3MjjfAXUQcbLpilB9oVhqKNedyxF4C/g81luyHYaBHabrIgXbp0rgwJYQIlCP+1QKComwCQ65XNigo4NUKuoXQPtCXalQCeYmjf06dPX79+fYWRnLww2XpSDmU0QZJOQBWOb6mQzfJDaPwY4c2bN70nwtT0CZmdd4nw11Edx4kTh3XUuivVIJQG8PSBnc2VK9fHH3/co0ePDz74oESJEjI/leITDO0QeEKZsZ33Q7AmmoIeOl68ePHXX39dunTpqFGj2rZtW6NGjRMnTtiibuDICOk1fvz4UfhMNgDfB5ter169NGnSQMeOHTtHjhwQioDixYvnkXAJtNbfj2wTBn7yySctWrR4/fXXWaJ+/frNnTt327ZtFy5cuHr1qi3qBuEbIZvB2nEZjRUrls0K4G8A9j1lypSkAPvhyBcNiEVtITfQ0wS/tkOdQeDkyZMHDx68fv26zFJTe+aZZ3777TcJuIIjIyTlLIzY+ReAzwJ7kEmwxSLEASgW6ezZs0+dOkWINXDgwN27d4spMZM6x7Vr19xW8TWwUApHmQirAUFqOIAAldSWdozwjRDQBxaIHdr5APwf6Iq0R2c5NARZijjRoeH8+OOP1atXb9SoEbEWRQIV8ZBqxDmkmlSnL3H8FLI9CJaIVAuiLEVXrlyBhiOmQzgyQsBFnF2xMwH4P4w9KJQii+3JLO9ZPyv4n//8p1ixYosXL968efOqVasQBugWAsDThEvohUTp7lMGY3VcC8VxhfBXROseJ06c+PHj26wA/B9GbzJnzoyvGz9+/Pz586dOnfr222+z0dr0WrVq5ciRA8u8e/cuWQ5i5LEilEF1XeHOnTsRqOUv0NQ4aEjdHlKOjiUdgYGno5GHXAEpNEsKIuBVkiRJUrBgwapVqwYFBVFdLZimIOhCfCCOKSWNFStW+fLlW7Vq1a5duwoVKowePbp79+5ly5bNnj17iRIl2rRpQ9ZUJAX//ve/oTVsPCSagIApdQjkGZjbWn4BVkMe/urVq2aCzmcavhHSgZAoUSKbFUCEoGUk/JNLgSZ1pZQ4pbhx406cOHHGjBlDhgypWbMmJuGt2SLoAsnUqVMXLlw4f/78qVKlEp8UQ2rQoMG4ceP0QymDBw/G9tSChgdwgLlz50Y+adKkpmXaVCnCgHagVeQEVL958yYEdcV5KnHmzBlWhkUTbG54cLQiWu4ofG387wl2RZcu9gk7ZD1dbRWQAefLl08fF92+fZus7JAsNIAoV67c2LFj586dO2XKlFmzZnGvGz58eIIECSzz+X+YlseYLFcGk+q7d+8+cuSI92AwXfrilogY2cuXL9OjBEDChAlVXcJOgLy0k9RmPY1g0f744w/RWjonCN8IrWX3IPARRSSBAaCCKVOmnD59+vr161euXMl9zPlWAYQxGztj/dwokWHJkiWJKim6f/8+XfTq1WvEiBGElzhAfbqbPHnyV199dfLkycQyDCBZsmQIs6GkWNcbFurVq/fpp5/SJnxSDovYsWPTmtWPhylPCIdUz8khVOoEtPD777+rBZv1NIJpXrhwQWvofH2crggt6j/RADaS1C4IwDG0bmXKlMFsMAz8iXTaLrYWWUCSjdReksIRQa0iRYqIDzp16vTdd99h0v369cuaNSu20aNHj/r16+sdQ1wcUEXSAgUK1K1bVz1iURDY8NChQ3/++WcIOF9++SWEBKhCa7qAQN+6dUu1oI0AqWcQzkBdLpaMR4N5FEyZVKYuGVJBpRB07eO6xwj1KYWrQbo4ljiDtShaC5sbgGOwbqye2R4IPbVXFmh58V14SwWNhKylS5d+8803a9SokS5dOl0FaQdhSmVsVJFRcZfTL0PT5q5duz788MMuXbps3LgRDqBKqVKlEMO0NJKzZ8/+9NNPaoostTASjYdAV0xohAmxRFMK0qZNqxbgOAStMUiiZVKb9TA0QjWrrknFNISm6arfaAaLgyc0A3aI8I3QNKd7CEsAWAsxA3AFls5cqAB75r1bGFW1atVGjhw5c+bMefPmDRo0qHPnzlOnTm3fvj38oKCg9OnTI08t6SK+Re8QL1q0CE6zZs10J9y/f3/Xrl0XLFjwzTffdOzYUe9SUTFFihTcKYhRrd48v46l9zkBpbg+tlhju3fvHrQuIGSl/YAwVRyrARegBcJRCLXwKLQOpPTCOHHswcHBuP1ixYrlzZs3W7ZsHEwUecbqw0YIzpw543aQjmyJpQHEQuwxCwHHxxfCGxqqUrOLBpaIpxTNFs1MRQhksY0cOXJIv4Gp9SgQ1voAiYUQRgAjVF/EeKgmHEAWtcP8MLxy5cplypQJe8P7vfTSS2qBKjdu3MBmcF90QRZw/WvcuDE3OgwVNU2TJg1F3AzHjx9/6dIlalGX7MGDB0VTBcIcpmSNdUHDN0UYIdZCFhpwdRQBEMCXasyuwEhINQZAC/SrBkkzZMjAfAcOHDh37txPLMyZM2fWrFmcR1xWOVA4aObPn8+UuQBzjljLZtutWvA06gPQR4Wu4MITPmPBZH0f7LfOXTablH3SHUlgIkwnY8aMFStWRI9feeUVxGB6byebjVosXbr0448/fvnllzV3tfYoKKV91JoWjKpBC6ZUfLLIAIpgEuANGDCA66IZqlK8kzpFgw8dOkS0SURKLZhM7dSpUxibPsTLnTu36uLftm/fDocsKXNMnTo1fKBf0+JuD58WuAFCAA0DIKNzAa9lXBZZ3eU0EoS9P7pwCGrpw3rvRaZZnC1OnmsttscK1KxZM1++fGxKsmTJWHyEAVNAjMgcl9igQYOxY8d+9tlnhOgI0A7QwNRmjOPq1atuxxO+ERpw/rEc1qx9YrbhAt+l05cBo1I4NPQPJ4PVtW3bFrvSC1mjR48mZhsxYkTz5s2RRF1UHaAKVatW5ZCmIqoc9sSpiMbQUeLEibNnz/7CCy8UL16cRaM7zvUtW7a0bt2aUmMSf/75J1UAOs3lDeWTdmJaEyZMmDRpEgJkATK4TRqXbQB1B6gis9cTS4D7ih8/PkXwqVK0aNGcOXPCJ7tp0yYswbh0tYkk1clyEJDCoU2YWAjbje/lkqOro0B1SiGkag5BlevXr6sKNAQrgyGtXr36gw8+4LLKCtO1hEOFBgmoi5USoi9fvpxrMFlA3bCrRw8YCSedhgotZrhwMW5OI7ZfHZgV8WWgjlwksmTJwvn6/vvvc9xicmDUqFFvv/02FsKMWCnmAiD0oylScQM4UlMWl2wYK0tFSrnDTJky5fPPP8eK8Fqc2X379uVug85hbDSFMUge/SZF0fPkyWP+392XX35JVEYMNnnyZPQMS4Ap9ZLqAw34jz/+0C+XyaggpNz4B2bH1OiOZocMGaLxE5SuXbuWpox3BarCyBkGDTIkLpDfffcdXvfKlSsYCW6qcuXK3kbI+PUCN22K4wQIm4XlNKxSpcrKlSs5+7j+wdEwgNoMtWVGjgCSIuAQfvfp02fw4MEJEiSAbxY2ZkHobk3FqQUCF0aITrPfLIG0zeb6GNg/wJawu/369Vu4cCHnJSEld6fChQtzrdX4tZGaCDSgFpcu74gR6PGjhBGAgwZzDOfKlQv3CB8OfEoBeoy9cT0zPo3SdOnSYQyetiyro0d9aC6OKnLxY2EhuE4wVOkT2V27dpnHkvrqGrT5oEghotqh2Z9//lkjp6mmTZti/NypOG6k5UyNM0i+CPuEg/Dp06dpgWbpkdbwk02aNOHAeuedd/SJ85EjRwiuKIU2oAWZvSuY34PAgHF9w4YN08eVglaYUhGiQ0BMZqosgINOEqpwl2aRVZde1FFMgZV0+5asCyMkyGH11ToTFtPX4NlAayewB7aH2E/bBlMCjwMC3m5HkP1oyphQpUqV2G/MTE8Lhg4dSnBLFdQUGaLZ2rVrU11ai9rJlqBJEcBxQShWhEk0CJOswkUq/vDDD3KPAEmODJRMdXU6MBezBRhz2bJliaunTZtGxLtx48YTJ06oZZripGBsEAhz9xs/fvy3336rUlwQ4TGWMH/+fE0WGXpheEePHtVHggC+ikhNVmDMNuUY3AvovWDBgpwLjFZMNR4xmCFBPPfcc0QfHC40aGak0mgG/TJNfb/e+Rhc2BLT47ajprWdvgl2BV/ElczOOwYHGHW1i97QfuMiUFz0HueGFnKQE1MRcxJnUoWAs1mzZpLHw3Tq1InrSv369YnrxKQRb5sE8nIYFc5Bq4rJYWbQlLLC2DyuWPJyTfJ1EqbTrl27EnmWKFEC14eWd+vWja4pMqDizp07W7RosXjxYtUCH374IddgXCXuESbtIKYiJ0AY+3dVBWDhwcHBhI7YoVbYbQthI3fu3D179qRNaWbUNu4c9MseEXHYeWdwYYQAzWPbmGdMTTJcMDxgnlI4BzPSY33v80WvPgNozm81i4AUF3769OlbtWoFBxOVamLJPXr0+Oabby5evMg1jKsdpWqBWxYmh9Fq9aSLlGI/0Mg8//zzuC+YAAvnSiY+WSJV7BNhmlV1pTLLs2fP0gjRY/Xq1Xv16jV79mwupYR8devWfffddw8cOIAwdZGkNWj8qloWrS4cQv16E06AMJaPfzZ9ueo0DNCOwNyJfejI1cCiFiwy66nv1zsfhjsjJECiafZPe++DsLbA86m0dM45zKopFdB7skZff//993nz5hFQ7dixw7PtFkqXLp0mTZpChQohQHbt2rW//vorhGphGGpBzcLBkkkBN3g2jPjzzJkzrCcc/N7cuXMnTpzIdW7IkCFYtYYBsF5mxHgw7y1btig6xT1Sd8CAAXICACbRJjEz92GGyimgZ7C0IAFAR7JnCMO3OnGEZ599VlOz886QI0cOLJCOtBQGdnEkQINAM+rQoQN3ZjO16AcjYQs4MV1NzZ0R6k4PmLMIXwOTZw+esX6gwWY5AxX1XRtvmGlSeurUqUaNGg0fPhw/w2afO3cOJsCz5c2bl72X2L59+0RY9f6BcaIQAvbAqDAnFaGXr7zyCjq9fPlyqyWPeRDolilTpkCBAnT9b+t/AAMudbpmYHscBF26dGndunX37t1JGzRoQKgpG3Y75YiBgUVPR27BwIjUiL0Znln/6AcboZDKOVx7QlKPQsXQSRMuNDD2w+02UJF7iwhxgB7MyJPMmDFDvyqJAEH/999/ryKAXXGdIwuyZctG1+JjYM2bN4epwXAHY2AYLTSl3JGIGCtUqPDdd9/hvvTYRsKA2HXEiBHr1q3j8jZo0KBvv/2WIvlDnOf27dtxuT///DPRr0yCKhRBPGlwwGmEdt6XwKgqV66MlsagfrIdeofbOdwZYcKECUX45h4IrELEfgQAJWZeZv88ivZgmljd5s2bMSFKYdIF9gkNQRFXMr22QtHrr7/O7TEoKAjrInDNmjUrMmoTf0UXtx78TrMah4Mh9enTB0v74YcfTp48iXlPnTq1TZs2mF+nTp3gY6Lmswr1Di2TExMaAr5pVln8c4YMGbJnz84wIHAURsCMiqyqQzsBa6uOfA1MgbmkTZtWX+xyPqMohMbAJmqRHcLdWJctW9a7d286ADEyyXChVWjcuHG3bt0gbK4DoIhvvvkmHoZaGJtUvF27djDhYANsLS5Iups5c2bshKsgYgsXLuQOtmDBAn3SQCnQyyg6s5BRrSpVqnCFIwTt27cv1z/oQ4cOTZs2jXujZwSWA48bNy4uUT45bBgrwrYNzcAIZfGxOGTUkV5oU7dQSu/fv89hQSC9f//+H3/8kcmaN9cQQ0BiYSN//vyffPIJPplObZbPQHPhLHv77bfJsnEsjis1iCTonZVEMdasWaMldQJ365gqVSpdaehMHB8Ei65PtO28M2jDROuKBTAJtcNluHbt2sScKHS6dOmwOr01wjWS5cZmpk+fjorDQV7mB2gHJ8lFDhsmlNVngF999VVZC3Xr1u3Ro4exQIC50iDydj5M0J1OCkaVJUsW7ofcLefPnz9gwIAmTZo899xzeGMGicfmnkkMzHigscyiRYs2a9ZswoQJ69ev79evX4kSJdhTJquZQljNPxZ62QDhcCWjGZ4Ns2aRJ08eJs7ia32iGXTK0aaPlBzCnRGy3zr/fG0DDKQc3s8VncOEfFIyAzE7d+48duxYVBxFJ8DjnIOPBXIxQwaFhq9v6wCKrl27Nnv27AYNGuCTW7RoUatWLUppGRvDaDHIP//8E5q6qgKgaZZdVI9hAAEkMa2XXnoJX7pkyZK2bdvi/eCYU5LWaMoYjGjpJSlMhAmeZ86cyXUX/6mjx3s8oULtg3AHGf2QcnLcEH6zPsxFnGiD9oVt5f5vsxzA3XlG+NSoUSO0Bzrc3YopMKOePXs2bNgQwvkeIMxd7uLFi6Klu6NHj37xxRelvmahoKXKGzZsoCN9BqDVIBrkGE6RIsX58+f37t1L4GfVsNeKFiAABFA7KjKAT+rNFG3GoGzy5MmLFSuGQ8udO7cRhjACBoYTapEhOBe4eY4bNw7toS8dMSoNARaEZZFAiAbd4tHpe8Nt497j4fgbPnx4JIcXATAGtolbABE7mmBzw4OLc4IOiGfoAzr6p+cKRCOMUEN1CM2IOQrSDwBNSpRIa2oQDpo6adKkPn36yHkiAJ9SbuRffPEFvmXdunXYIRyrDXutRCAv2lT0hkf6YSYjURVTEe+Hhg0ZMoRtlrBVySZIvWE4oRYZEGbXqVOHoFqf5tGpLfQICG7DMFFXYH1oxzSlTuldHO8iJ6CiTf3jHxkyZLCp6IV2HK3QR0oO4U5NWX260drZXB+DthAY3XUIhFk4LaLm+Mwzz+glSbwE8V7fvn2XLl26YsUKgtJWrVoRwumOZ6AeDbRcdlkkQCMEipoXPpZ4eODAgdzrosoSAI2T0lquXLkWLVqkb5M8zg4RDsNEXYF21BrRxOnTp7k2X79+nclSFMmpcQrrVVI7H10wi+Pqq732qeMEkuTGj6FH1TY8CbAQnOjFixdHk2yWM5jvxaIH3HyYI+Hls88+e/jwYT1coWXAOkh7gAhVhzCLqSJai7weqAXSsmXLdu3a1byWDdSj22k+Cu9ZAA6X5s2bHzx40JtpwAHE/ZNONUGb6wYaOdXpaNWqVUT19MVJx7JzsuCK69atyxWaxhELdQzhgpCEexPxizqyudECKU/79u31XN3mhgl3npA0VqxY0Twrt2B4nIJu9QOFUBWmKScDwV7u2LGDvcQCKYJJ40b7gVXVA3HszAM98+ZEGLSTKFGi1q1bT5gwIUuWLGaQ0lG30wwVakogi//ncojXVeMhZsGFBzHWQcIOQSOCaNZz/vz51atXHzp06Pbt2wnvcYbYISkGOWjQoJdffvno0aMS1pq70jruTXp9wlUtV9BcrDXzQCOk0yRJkpQsWTJnzpwwJRkuXG+heWlGWR8EqhOBUO2u9e8W7IwzmG0wdNSCibCv6FOHDh3atWtnHks+UWg6QUFB/fv3l/bD8Tb1UC0zXNCI7IH0+PHjNI75Xb58WaWPgqI2bdroG48akvcYfAGMyiwC4VKhQoVatmw5evTotWvXTps2rUyZMipyAhcTU5f6NpPWxQehpTFfuXIFfUAXbkW6QCFIBaNbKo1CENgwkTFjxhCeMaoIzCgCoBdmR9elSpWqWbOmOGRVCvQzH25NQlVIsSuC6q+++graLnsEWswLFy707t3bvIqkIt+Bxs/9uV+/fpMmTfr44487duzIlSGB9TX/MGb3KFwsJQtB0wmtX+yzWb4HRij9cLUK4OLFi/KfRr1C1bPYsWNnyJCBpX/ppZfq1avXokWLN95449VXX+XkCw4OJlTz7le0q+XSIkOQ4o4IzIoUKQJTkMwThXpn7qwGdz+9h+ndtRmJN9MJaOfUqVN9+/bljo1Vh7q8Ai2r0z179uzdu1dZu8wZqALszBMDxsbWc30l+CQQZcXoVEsH4XzMLoyQRgGeV4TN9T3olY4w9jhUmM+4WVlWkFSAQzZZsmQVK1YcNmzYokWL5syZM3Xq1FGjRvXq1atz587EivA5C2fNmrV8+fLhw4dzn9GjOUCb2g9Sq5+woH5JAevMEfviiy9Cq0jEk4bWjb7QpFSpUpkfv7EKPSA81rxcgRbwaSzR7t27lRU/DNALtrpq1SrRYjqE2Tu3FZ1DS6QXMIBmZOYFYehw4UJTaZRecQWmSx8EA2OEwO3q/2F94qepQWCTypYuXfqjjz5CFbAujr0sWbKghfo1Pi0ChIDxp02btnLlyiNGjFi9enWrVq2kr2gDYt4R3eOgrmkKG+bKVLx4cZhwVBr9YMyNGzcm9vEegxQAwtXAEN60adMXX3yh1XCOo0ePmq90OYd5++/JKSozAleuXHE7o0fhzl3Qa4gt8TWwIpwUjNDt6of4YOeZZ57Boc2dOxenp0Afs6RNo386aNlpUqDuSOkdGTxn+/btV6xYUalSJbIwQbhDoh3EsEDiwJIlS0JHfoMjAwaQLVs2Ym87b0FPHd3izp07Y8eOxZzczui6BQgWRxwnwAjpy60OuIIav/fgC2iRgQsj1Cro6zCuViQ6wYokSZIEE4J2u99YC4DIkSNH//79cWjoHw0C1FEysjfZFYQsE4gPJEYpHC5UOLQePXoghlfReMJYOrWj2yZdkFVqFzuAaRxCtOG4hVoAHEak4pBKARzCVFyzZs358+fDXYFHoR1xvghqHLu9f/8+tKvViwDM28KRgWtPmMjn/1Uo2ybddbUB+ocNWMvrr78+YcKE1157LUQLygI7/7BmPEprDPiNBg0a9O7dm6NBlkwXllQoQG9y587dqVMnI+PdrEOwR0B0ZBwpXdMOKT4ZQk2RakikIsKFBrNu3Trq6uRyWFFgKXSkhlvLzBoCg3f4rDsyYEhuv78bKlwYobV6/5MmTZonOrHII8SvozuEDk69DpIuXTpo4/0ijxo1anTt2lVDQhch7IKHQdCL24zA97AMvFtWd3YmoqARLrr6cJjWIvBsnBY44PSrH2HM/XFIkSKFw3OfgalxCPMjd267cw56YTp6KcdmRRSuPaGePdp53wMjRFH0EwyuNoBwsUuXLm+88Qbhls57OFGyhbRGWq1atRYtWoTdYNOmTQsWLGhnIgR0YvPmzdOmTRszZszEiROXLl3q9vdOQkAaFhwczKYz+NjWf25SUbhAHtDCkSNH9HDFrb5SPU+ePPKEDkEXd+/e/fXXXxWJ0IJdENWgZY5p8y9BIwPXRuj7H9aT6phwNchSpUqZfy2m/VPspNIIgxZoTWjfvr2+3gKtUsBi6sFptmzZGjduDOGwU50RAmp37tw57p8VKlR49913Cadnzpw5ZcqUfv36ccPEu5p/q2RXdgbGqSoZM2bUmN3ag+ZCcHjP+q0AwwkbyDA7eowfP74+JnUyeMkAusM25HW9lzpqQeN0wbz0Ze7IwN0Q0UtiAy2KzfI94KulK64GmSNHDuSBEy2JGFCIPn36hHCwdAcf42/ZsiWBqM11A5Rg4cKFRLzz5s2TrgPNQju1atWqOnXq7N27V0XOodVgeAxMY2ZtI/B0VB//2BkHQBhNY17cC4oWLaphALv48ZDJnTp1ytV3aiMGDQmE+DJNBODCCLWO+tkS+hbTB4FCsxmudh2YnXZb0RWyZMlSsWJF7y7okQM1V65c+ljcOaRw165da9eu3YgRI/7880+aUhEwXWhG3Mq6d+9+/PhxMZ1Dw9OratCCXeYYqVKlcuVC6QugZtwO4j34R6UqCgMMDDFGu23bNlKb+ySh7iL/gDR0IzRzFkEKNEmy3JWtQl8Eg2TzNE5X6iKdBqr7JMB44saN26RJEwW96ogU94IfI7WkwoIZGwStYVqDBw/eunUrU0YbHh25mRTE6dOnuSIi86jY40AXNEtdmRBZfYVCpQ6BPEeMMcIwevcugi5duvSLL76orJlI2GC03IH37Nlj558wmBq4c+eOnY8oHmuEgvfW/uc//2Ej2fIQh65PgdFyRmh1bJYzqApwuN8RAItJ+/ny5cuaNStZhkpfMDNkyCD3qAEIqhIC8M12sAvjxo1bv349LYBHh40wfENTceXKlTet/44kqChseDcCOETc+jSqc6UksKQpwS57BJoCAlRhE7t27UroG3aVEKCFY8eOHbT+M3E0QGvo6kv0oSJ0hdO0sTr9XgM3/rfeeotLP1eLtm3bEgI53MIYAYP3qJjvjVAmh2LJ5MhyP8SJkU364HdDwobmBWiHG+CGDRvsgjBBF6TUYuN27NhhdN0qDAtU8ViA5XJJ6ZQBQ9jFDoCwZl2tWjWyVBf/Uah9eoQmKBgyZIi+vqxSJ9CyRODNuAiD4TFsTkM7H1GEPknmM2bMmBIlSlSvXr1nz57z58//4Ycfrl+/zh0UyySa0mL5JvR4w5WuRA+kkRB6JQ0aJEuWTD9W61B1JHn+/PlFixbpkYBsLAwgL+OhO0I1mZZdFibMqOiIFqieOHFixdIOoY6oWLt2bYLSMB7q0JGUivvnoEGDWCKHg/TGxYsXN27cGG3KyZoAveYRGYRuhKzarVu36ID5ALMc8ElZrwgsULSBkInUbGrkIUU0rUW4Wc9SWnWDgoLSpk3L8kJny5Yte/bsEA6XlBYYz+LFi80Pw2l4YUM2TxfEThqDcyAvTwhBCuwCx6BKokSJPvjgg/Tp0ysrPvAeDBtXrFgxYuxKlSppwHbB40F1byxYsMD8wHk0gIkQnIfxdNQelgVlQ6TCYz1hwoQJjR4/Ws2XoUuLdE6cyCAK5854hOTJk3NHUkBRpkwZUudHBtVv3Ljx9ddfG3k4IsIAwkK4btMbyIs4fvw460k2jvX/EiMGjpupU6cSl+qBJ8PmGPIsh/UsDT/5/vvvjx8/HgKOqhgiDFjT8oyTYJvogCrKPmnQkY4J87FQCGgYZgrKkoYwKxC6EVKTuBwhJ6vgU2DM5hVzJy4ibGiZtNbQKE3k2wSsKhcemgJFixZ1vshIgv379585c8ZmuQQeWOZk5x8PydDd3bt3jx49Sha4ens7BJhsmjRp8If4qw4dOhCEP//88zi9ttY/G541a1adOnXiP/g3xg7B8JgOgJgxYwbXM+wZ2i5+ktCCgDDCUQmIIGVgjJCrBDvItc6M87GeUDcrpieOH4Fd1PQivxlqgXjj119//fbbbzdt2nTy5Em9GRwZ0Kx+3jNp0qT6DxZiiggbbM327dsjvC/58+cXIbUIG8gANEZfQXIYIj4O1KURGuQAevPNN8eMGfPRRx8NHz68VatWxYsX59BHQEDGruMA1hj/u2vXrjVr1qh9V2YcYdALYNfC+IiCdTt8+PA333wzc+bMAQMGNGrUqGbNmvXr12/fvr33M9XQ15Sm9dZs9MwnCsHI3Z6mgvYSWGvrAYv7008/ESO9+uqrLVq06Ny5c8eOHWvXrl2rVi2Obf3+mqmIvLIOwfLiVwsXLkxQypjRPCdGqI5wgxA2yxnUeOrUqc3900l3kuEAUhZE7J0eoB5lxgAOaezYseW4HoVqOQT3wFGjRqHWVGRl1P6TBr2ou99//52IlJOaAbBWX3755dixY7t27Yqe4O0bN27cpUsXOEuWLNm9e/e5c+e4TaBa2KfZxNCHS7EeZLnd7BgH66KflrDzjkEV1ZIGcLKyds2bN//qq6+4bBBF4AAxm/v37x87dowtZ3HxilbViBxVXLlJuSa5VTjGoC+5RgBFihRxFU8yL9aEk4hUD0Uj8M7akwYLsnTpUv0UjdvFjCTojpVBDTigGzZs+OKLL+LliLQJjFevXk0Mj71xWHu/XIq8arGJZrSPPTMSJ06sCMHO+wkYsOYJ7WpLEAbU5Yj64osv3nvvvW3btsFBEUnVrAJR0UeOHMFKOYMR0KGodpyDWkFBQTRl558kGDlOTL+oa7McgEmdPXt237591NI6+KAR/vDDD1wpMcXoWUkDumNBAA6Qq8qJEyekHs888wxFWjH8vIQNkKdUZ7rNCsMICeoUKdl5PwEehpFDMFUgphNImHNrwYIFgwYN4qBiX+GwmmqKpZA3gNbiHjx4cOLEiVoiVwulBkGqVKlsljPQC+Nx/pVO5DUwUs5pol/xnUB1UXHCLY2WBYlwOPqEcPz48cmTJ+NwGB6jtbnRAimGVoksKVkIk8JhxRADngoW4AP43m+chm6E1I8TJw7HHhVslp/ADFhL4wpU2bBhA/e9sN+BQExxGvSaNWtuWv/pHo5V6BRqhHDDzjsDnbKjwcHBdj5MyHfpKMmQIUPdunV1iDgEfXHVWb9+vb4KKE2KwKo+ITA8tmnYsGFctLy1PNogBTD7rtWGIDWrxMAQk6RAkaqEb4RUQz8i8LZujIMxR9iBE2GOGDGCG6CddwBCEaJWlsttj0QjjBOn7aqiOipfvny4YSFiJi6io379+uXKlcsucwZa+OWXX/bv329UHI7DL7k/aTAvFnDAgAHbt2+3WX4CRq5nUTrahMd6QrYQaWPo/oLYsWPHffDvdZU6BDMdOHCg2++hoaC7du2iIxbXZjkA8hyE9Oh2eTWj9OnTv/LKK+KEgfvWD3YkS5Zs+vTpJUqUgONqkPiZxYsXsyAaJ4Apw5ZADOL27dujR4+OztdEowraQYZ9/vx5ccBjPWG8ePFQaDvvP8AqmKFzRUFSwps3b/7pp5/cbip19YGPK4MHEQtiBQ7H999/P3fu3Bo8EF9jIKtmWYpMmTL179/f+30AI/w4WO15ZPbu3btp0yYq0h1NAR3hpqnogQajUQkXL14cOnTo/PnzJeB3YAFZTO+X3R4bTCOqL9HbeT8BbhBAsFvihA3pKxenBQsWELZRy+2Udely2J2A8KlTp9iJ69evu6rI2ISkSZMSjBnrohFNhCymwkRwgHXq1Jk8eXK5cuXEt+zI6VPcO3fusCDen2WBhAkTxkg4alYYHD9+nImvWrUqAsvuC2DAbAGpozshKTcWv5ukwDydaBuzQy9JT5w4wf0HPSbr1jvpqKKinXcAujh37hy1vD8scovg4OCPPvqoT58+BQoU0O2diTCY/PnzN23adOzYsT179tS3+OwKzkAjDI+gYOPGjTbLYgKICI82MtDa0jXRCvP97rvvNBh/BCOXmnm/7Ba66mhH9W8nbJafgBAaP+DQkIxiYYER+NdoQo4cOUhdme6VK1euXbvGWc65HuEVpmKCBAlef/31WbNmrX2AJUuWzJgxo3PnzgULFpTuymM4B4tw7969IUOGhHgvmdYwdb0cH53QwhK8cax06dJl9+7dUk6V+h3McxaiDKMzYRkhexwxvYx+mHGiJbFixUJjnIxcagpkDJp1uBWNJKCvnDlzimMXhwnVumCBrPlvuDBdmTHQHNlUzh2Oy6CgIPxemjRp5BVVhAxHErRd5zHQqBiALHbEiBE4ahUJtEMRa+vqMYFpNkQKbImHoSLBDIauv//++3r16s2cOfPPBz/pEO6MfBbMSxt3//5984A0dCMEyPmRETI3EREYMFW4odkZB0DeLGXatGkJC6U0dnGYQJJaBw4c0A+Qbdu2DQ/sUboYPdrVOwMDuNPFixeTZYJWoQcIUIRV23lnoAoV5VGhQ6SPwpsPjZru2rWrU6dOrVu3Pn36tMMV9n0wNcC+m9ePwzLCxIkTk9p534bGid6kTJlSHIeQ/nm/Q+QEdERFalWtWlWf9Xmr7OMgVUa3iH7JQnO079u3D/WCBhKLfpiuDx06RNSncYpjABMfq1denYN2li5dii1RXbALHoEpZVUxudWrV2N7zZo1+/rrr2V+Mbg+UQhmwTTRASb1WE9o1gKw6Ib2cTBOpsfEIvCxCnUJ5NSCzQoT6gj5rFmz1q1bV7Uc1gXXr1/fv38/8oI+BoCvNJrBLIDos2fPchXUEyMg1TeA4y3sBAijbevXr2/VqhUt79mz59Fv/ahB+rpx48bhw4eXLVvWrVu3t956i3THjh1Ul5iGJPopAHPBDSoa8mSlTyqwBDy4fPnyxYsXt2zZwi0/xAXdN8HgmQjuqHHjxuyfzQ0PTFy1Pvvss/79+9OIHJoWJAwghvCwYcMqV67svW5hg74Qxurat28PLWbq1KnpXe+vOXGnUQiz79y+bt++3bdv3w0bNjxu7vALFSr08ccfex9zRtg0ZWjmggnNnTt30qRJOHyYXCmZbKZMmbi+Mt948eLR75UrV27duoXr42xiDK5eV/JfsDjE9iyOPuz16C4WefLkyTNnzhw7doz06NGjrAW2x6JQatTFl8FMABNr27bt22+/bXPDA1VIUR2cQPXq1VEacZSGDSIl+tJnkg7BStJXz549V6xY4W1vvXv3rlOnDkXRaYSaI0OiUyJAziAiQKwi1LnDBCVKlMAIvQcpYUauqZElxeRQIe69O3fu3Lp1q35kUWJA6kRHUkQIOBAqQhJa8k8lmBoT1wRnzZpl/744M+esmjx5siRIWQ5Ss6zRqRmRgfaVe/wbb7xhsxyAaWpROnfuvG7dOsNRaaj417/+VaBAARaNs1xr5RD0cuHChZo1a6Km9CImfSVPnpyLU9KkSV21FklorwFx4IABAzR3EOoYYLK8+fPn5/Bm+jbXejOOw/ru3bu//fYbMTb3W65/J06c4LaDLWHbCGsxqa4qgNZgsgIwoZE0yiYLNIvzVIK5S1e5fleoUMHDYc76Qg0ECwFC0P4C7aXb79owRyYLQTCWNm1acUjFNITJYngvv/yyLFAch1ALq1atUnwhJmA/iDvmzJkDjQyg1FsgaqH2SUVjPPjAr7/+WqbyuB1HkuUlUFq+fDlGy1UFL4dBdu/evUmTJiwInrxfv37E1dzrsEy1RkpFJggggFpjANgnWdqkR01WKZKPmzutmc3yhjgUhVrqg2CQDJVpchaT9YybaX/11Vddu3aFq7XzR2jwpCNGjKhSpYrNdQPqHjp0CEfK/UT6AQe+zmYaR29SpEhBrFujRg1XUSjVAQSBWbVq1bgFedb9gbpTBB0nThwMu1ixYmICIxC10EgA+378+PE+ffr8+uuv4fbF9JFHjHsdi8BE7ty5Y5qKHmihvIkQ0HgoepyAr6FHjx4NGzaE8Jwu3JL9ZdyPgzEV72DJLYKDgwnTq1atqsckgDXBFGk8U6ZMLVq04EZUr149DEalTiDNADT1+eefX716Vce/mEA08RtexXxEbmpFOXSyYFEbNmx4//339+zZwwDC7Y5aiAG8HIP8448/aOHJDTJUmHFCiCMQzHM7ePXVV5kODpmhRvPAIgzzrNijZMTxjRo1kh6L64/QJmEn+tqOW7AO8qU0gp799NNPhGrQCRIkyJ49e/r06QlWjR4gqVpOIA2mzY4dOx48eDDEIqtNUsSyZMkyffr0lClTkgW2RJSCXoiCJk6cuGbNGnyyZk1fIUb1KMwgraF5xkYabq0oBH1pgzgiUV9OAZjx48cfMmRIkSJFEiZMSGmHDh3Wr18PXyP0cZgn+Z5wFM2oX78+01OZP0I7RDpz5szixYvbXJ8BAxs6dOiSJUvC/rwH1cmcOfMnn3ySNGlSmQcVPSofIZWiLil1Raip7du3jxs3Tm8IWFLhQ6oPoWGotaiChidAK0uPEJQqBtZSVKpUiXA9b968QUFBI0eOXLFiBaWVK1f+8MMPFf5wZa1bt+7du3cRttr2dTAjJgLhmS2HvSJSlfkpGD9XNf3AjE8BHdqxY8fSpUvD/cQVSe5pNWvWxA8bC7TL3IPWaEEpqnnixAkuIdxpd+/erecittzjQXCk+MgYg5NarkDLtEnjAAJzQhvZxFixYtEdpcgwBkrfffddbCxPnjyJEiViOpTCN/9njhl99tlnRMtqx2rb16E3ZhitZ6eZcAReNPEpaOlR3HB/9yGawaguXryI80FvbNbjwfjRrWvXrr3zzjvDhg1z+23DEJBDoN8jR46MHTu2QYMGK1euRFnhO9RUbAAgDI08hOqqNErAfj377LME/OXLl2/VqpW+rfvll1+uXbuWMWfLlg0ZumZZzH+8A/oIBE+if/FP6f79+zFCRqtxRmbdog23bt3SA1LPmj7zzDOE1BAq80do3Ul9ZBYMRmCV582bx60bRbHLHg/k0XI0CSWjFhf1KVOmnD9/Xk0Jtmh4QJIr38aNG/v378/dg9b+sF4X1vrIt1iCf+FRDoNJly5dvnz5GAlRBgLScrvYC+EuuzV2D+z8A9DytGnTGN748ePfe+89wksC8iRJkiSz/lnVpEmT9Lv9SNr1rV1mGHDefPNNqw0PPv30U44b5qVsuOPxBXAgAmbkMcJ48eK5eubug9DexIkTx6fCUUa1atWqhQsXQnPSiRkupHOkZ8+enThxItf13r17//DDD1etf6iEMQvQgmiqkGK9XI3WrFnTq1ev5s2bd+nSBa+i41ZtiqBKCDUli0JAZMiQoVSpUrhNnAwmwQV1xowZRMjS+xC1vLsWxxtGGAULDg4uXbr0o28jFypUCDeo1x5MUwKc9OnTMxJoLsmEnZIBBBcvvfSSvskJdu7cScCvUjNH38edO3eInz0HIusIRSTANOxCv0XKlCkJZlKnTm3nYwiogrR8y5YtHTt2xDCMhjmHqpCi/aSAaCVTpkxoM94pVapU5rhh+y5duvTbb7+dOnWKix/RrPf7ABoJUDZUqJTuChcuPHjwYJwPdvvBBx80bNgwf/788AcMGLBkyRJkUHHTMqDIKH2oE3zllVc4RAg48WxYWrdu3b766ivNSwIE6vr3jNCmBbpQsxDEmS1atGDuq1evxoY1AAbWtm1brBoZ1qdnz56cOzQS6hh8FqgrIQBb6fGExOUx8tshUQv2hk1y7nCeHKRS3MRQDixEOiemc6BtQLUgaIQrxJ49exYvXsxliZY7P0DXrl2HDx8+a9asDRs2YIQ3b95kKYA0koOW6laTjwWSqDJqgMEEBQVRRSeyvip54MCB5cuXk6UdmrVqeKBJIQxs1sMgvKpSpQq+Du+aIEECxLz/7RnAuekOTy+ASx3yFStW1H+/QJIekydPTnSqz2bhIMahVrx4cf1nGzh79+7dtm0btPfY/AJMBDBHzw2E0bt9CcvXwGYI2q0YgZQALWFJ0QxuOPpdQ0al0F9iDqF9UXWltOCZoUXAwbwFJO061jpYlf769A863K4RQB4LKVasGLVokCi0evXqjP/QoUPc2Ri/WkYYAotKkSIF8WrTpk27d+8+cuTIfv36FS1aVE1JDOD99GQFwKTZ3Llza2xiYpZ6GAGoePz48dOnT3MHxj9IXq1hq4h5m3qtWrXgUIrHXrp0qX66zjTrL2DYjN+zIFqCaH57OMrBfjB+tuFxp3I0gDEA9PXrr79u3749NzqGBIeiyOiHZ3usrVHqzfGGYdKX6c4ww4ZkypQpg0lzfGB1+/btw7Ret7Bu3ToalPHUqFFj1KhReN0vvvji008/5c5Zt25drme1a9eePHkylxpk2ALNOmPGjFwNNAY4pIReHPcqBQirCBoCVw8N05ws0DC5O0FYNTyIHTs2rhWCKqz2999/Ty1AVgL+ApaUqTFsO+Dh0IKlMj8FEyG2icHPWlAUdGLBggVDhw7Vpwtokrf2+DIY58KFC5s0adKsWbM5c+Zw+eTOibeBz8JKy7Got956i3CRMFWhE0VAmkMM8u677+bMmZNZi29+bAoBLBMOtyDvf7/h/Vie9u/duyc6R44cyFMXJgE2DlkXYJWSigDw8+bNK6bfKTBj1gdXtooQYJiJ+S88mxNzs8DwuKF99NFHV65cIUsQZXyCj8NjYf/977Vr17iA9ejRg1gUZ4hnIywcMWKE3A4mwXS8r3BWVRsKHZHBnTJx7AE6T548KpU5QWC6Ib7mQpsi2DiOMAjukNwMtY9w9D1jzlYj6Q3EcM4QIcbjL0BnmIIdjvr7GzNMgQ3jKHE1C4RRF1JXtYCpZbB161aCMTTm9u3b0jnppV0hukDXjE17CsQUwWAMgZhVYjPJkrZu3RrDq1OnDhc5TCVu3LhoBX5v9uzZMgBkzIygV69e3b9/f8zVtEApnlADwFwxQjjAxJPwzecKgGY1YGWfe+45Yt2xY8cGBQUhCcc8dFH7RlKgZTiFCxdGnqyq+BdYGabgURf+4Nb9cQ7eILZBdVzNAmF2lxVwVcvIk3KxPnPmTO/evd955539+/dThGKF0JVoBqNiABokEEGsiEWlSJGCSJKAEAGYzF1ei1oNGjRgCnhCaGMwomE2bNiQMwUl4ZiDCbi2zZ079/PPPx8/frz+kSNM5s4u0CPNZs+enYoynl27dpkXhtKnT4+AaMT008nicP/E5rkZqbXLly8PGDBA/x1E/YqPMCedQn04zKtatWqmTT8CYyb6YP3t5WZ9/XEaBgyeXREhjhMg/O9//1tfzLFZzqDuzp07x7Fdt27d5cuXqwWptZQ4RiDz0wDQ76xZs9aqVYszAn/FIL/55pvPPvts7dq1OLdcuXJhSMhjOUWLFiWQpgp1wdmzZ5kahDi0hoA++4GGg8LIjKGpfvz4cYokjHnAYTXMv6ABX375JfKqwm0TAcmTFeENxEipNXz48GPHjiGMGP2qawkQ8zNCSYJy5crht1XqR2BeN2/e9CiM8pw0uvv6KdgAdksHedgIsVX37t0jBCLsgS/ANIRoEQCajef02rRpU/fu3WvWrDl//nw94KKUAVBKVOxdJTII0c6jQxJB7xCEf+nSpSM2q1ChgrTzvffew+QGDhxIhMlFCzcoeXad7MiRI7EHJDGYN954AyalYN26ddgtJ4v+65iY0g3s0NgPFfVD7lTXb9WJjwFTRLZkyZJksRz0bM+ePRg8deGnTZuWgAWCYcNRy8rSIGciBC2QmhdHgS4aMOFg8ytXrvzqq6/IAviEuExcpUp9AY+OR6P1JvRPr2wjJFzRndtPway0zXb+8WDyBmQPHz789ddfv/XWWz169Ni8eTMGJp9mJCHgXLp0iZhq6dKlffv25e7UsWNH/AkuNMSymmzkQVPSWggDssBME46IsmXLTpkyZdasWVOnTmVsqD5MAj8IUxEOKVtu1fC8nla+fHmIpEmTymshxpGEzyR0vHXr1oEDB+B4HJD1YTJASQCS1ig8TVGUJUsW7oHqguD8l19+gRk7dmyYksRmZF3QiGGEuGgZKlmMX70g3KVLF3w1WUAWM4agX2iOV/Gp9fvvvzO8VatWwQdwqM7BoTbhmDnGLEIdjPZORUyHiXBq20bIqvm1EWonwvh8QmuhyZMCOCjHjBkz2FS054svvmjXrl2NGjVee+21li1bduvWDXuD06JFi1deeYVL0dtvvw2HWxDaqed4psEnBI1TCgrYszRp0uTJk4frlhwXHPioaVBQEBEjpURlukRRREXVZaZYF1dWThzpsdLSpUsjoPhQHOpev34debLeJxpnExwIFQGEMUjsZPDgweY9wX379u3evZsifeEIAuaRI0cIFi5evEgWJEyY0Nz6zA1ToPrPP/9sZ6yPGUO95LNZME+dOsWMyHpGY/3jVF1B6UKGLeGYhcajXSBl9QC0rgnE2127dmW0dpzNgvq7EbLuHOp2PjRopqgjp/Unn3zSqVOnBg0a4P1UF1WmCC08ffr0jh071qxZwyVq48aNO3fuvHDhAp4QTWK95J3UWhRGniFAswIzwlTwvePHjydQ5AiYM2cOMTB0tWrVJMngjRkwC3wOO815pFscAqTDhg3jNGncuLH3L8ogwBT0FSFxqAsgaAdrERPIHaVMmVL6RJYwctGiRYwqX758MGkB2xg3bhzV6TF//vxwpIJEEKSKXSFA7ty5Vep9fWDM1P3xxx/ZBY0HE9VngBTRNQR1STk0GQBM/YM0tcl8X3zxRUqpKyZ0jINBojOK0TJnzoy+jR49Gm/PDnKgV65cmdOTdfAAaYzQ++TzO2jbOG6ZNoT2gE3lCD9z5swPP/xAqEa0U7t2bUKvZs2asRYbNmy4fPmy6lKL6bNe7J92Eb6aUqkI7b1oUtkkRASgFoDWH3jrDaXwK1asuHXr1okTJ7777rvlypVLlSoVeonl0O+zzz7LZc/8v15GRRXVUjsQum6Jjx6wGsSZLAVZ0xdiNKgsfB0rWgo40Cq6bf1HS5iqiwCpBgOHIi5+AwYM4PBSC9zQYLJc9Ii/opfz58+TAvj4XpWqrkBsT+nVq1c578SnlxdeeEG1NEj4BgiYd8GVbd68OetAszA9LT4B0BGDgXi0C28OYgwYhx8cHIzhcVRx5eFM792798svv8w+sjVaOkBFe884SBTu+ylYGibCrqxevZpd/+6777A6rnmtWrWqUqXKG2+8gdXhPQ4dOmQWC8LQrIU4IrTQoqXfplQwFWWTEQPqwgHPnQpjw8xQOLvAAl1474h6NCMkZZCcJshAy94E+RxKJQmohRunO28FYuRYCDKKgMTE2BRpwzcfHVMRG0OevswAJEMRB59+6J6V16kUL168AgUKIEB3dPH8889z/JUpU8bUYspSQe/IhRGSMgCzRwiUKlUKGmiQsnCOTooAFypCFaoQvOzZs4fzBRkdH08ILAIDYBj0ThZaKYDD3DEwLsPVq1fH0c2bN49ggXvNSy+9xEarSgh4psFWGiXz3ki/A1NgCbjP9OrVq169em3atBk1atTatWsPHjxIKdoAWCnSyJhNFILBFC9enJNi4cKFDJWAEy/N8OxiCzJCa4s9G4+qEdrJY8BhytmyZWPWyKD3ZGFKXhw2VDvLlOUfyJonHDSCElOqF8eAJBEjRZVl3mS1aHC8X3ah7tChQzk7mjZtio3t3bvXLvjHP7gQGgPGzDp37tykSROCMZWCdOnSYYQMyVvlzL4ofIWgd33pHoKYGQ6ThSbuVSm+vV+/fm+99VajRo0YxqBBg+Cbdp4cGIbZAlLmSNjMGEaOHDl16lQ2lCAFO2SaiCED7JqPgUdIc3byfN9nwRS0+oYALAGpjk8I7zTGwTAIjDNkyEAMoiFxWff+ajVMXYQAe4Rq4vfefPPNGTNmiEOKf0CbLZG/wLVWpd57j75qo/V5mopYKHUNRKDfMAF6JmelIk43bMYS9GTBsWPHuNjgfIgzVUQVmbre/FR38EWIFtKmTYuVIuPttfSuH2Lc2OWNGQajzZUrF/uIe+QqNWHCBG7yXIxNa5wF+ECGJ+9kbEOlUQ7aZ1SkHB9Fixblms01ePbs2WxK9+7dK1SowFnDpBiAxqBxUsWq/Vj8dfTqsPFTaLZKzR4oK1PU3ii1Cl2DuqwmKSCrZsU3IIu7KFmyJGc/d6TJkydPmjTp/fff9/YDgDFQnThNVaDhYHJyaHDgm3FCkNX9FlXbvHmz4aP01EWbuX6IQ0p4BoEJwaciYwYw1Rf+jaynvvVKCqn8m3ohJtRzEfk9DQPIuvSWPwSdov1qkFJPW5aqyaiKFClCqooQjBkT4qYgGYEFoTpdQIsvwwOnTp0ixOUmz6Udqztw4AClH374YdeuXadNm8blinibltW7BgMhDrC6tYfkEMibYZhGSFUqWK3+j37pA4/HAcTYOnbsSKjJ6aloggUHkgQMDIiwW3kMbAUlDeP5fgCCVlm0Fs0sMZcBghCunVxHp0+fjsbUqlWLi1DZsmUxyMWLF0NY9TygLianNyQBHFIsUJ96Q9MmhNFRsroyUZQgQQKYEAjg9GQekvc0bQEmRkiDao0UDnxoYicJA3kPxKR8mojEmCZZCLIU4SHh6IzXCmgMlvhfgImhmm/uYuTEosWKFXv99df79++vn+eQZHBwMCmeHA73Rt3rqEX2999/f/XVV7nJt2/fnpU8fPgwkpxBnA5W1ScCumbwmrJoUtYQV5wpU6a6detieFu3bsX28HiVKlWCmShRIrNikYRtqaQECTYvgMeAVcIwMJ7UqVNrn0hVBAfVSZMmDTSaBERIDP/Dqen9sRhXHR2fEpCkPvWWABwJiFaKLREIsV+qBRPVJIsheepYwGFiJxqYaQ0bhhYTQFNL7hECqFS3REAL3oGrPjyUGExoepGkAF9FuDguchAwMcJNmzZphIz8woULEPDhcAZBE82i3Fwsq1at2qNHD3NSqAvNgix8VXxC0GjpAoKUc4SIuk6dOlx6V1ro06dPxYoV2Q6NUKOyqkYN/pqbVCRqW/dlhD1TbYwBqt+8eXPCy1mzZi1btmzs2LHoqBSFjaEpLjkcnNSCZiNJ7z/4B5cASYIWdhe+Wi5cuDCORfKUSkzP7mFqm2mQrDYeMyClZaBaQI8o4HAqQwjwqY6TkRXBoQU9zoGvm7+6wOcgzDUEWpK6OkIwL++nJnoBQAGqxmYkDeDTBW5QT3TIHjx4EDHZEmPAIFetWoXVtWnThpWkqe3bt3/66aekmDR1TYPQygrQ4jsHjQM788huCrRsCA6F3Llz4/FGjx49d+5cIpd+/frh8ThbVVfCZlRW86G0GTHYMyfVERuFTfsmtHzohAigFRBBykGeN29ejiTv1ShQoECHDh1Kly6NLeF2MmTIIBUHEqMu0CbhAYYNG9ayZUu207QM2GnRRP5suYrwUWiq1Ynny6yk0nKKMGyytEmqYIwimJRCI0AgR4qAqQLkzbBwtF/jMTIwARzgXUtigFKYLE7GjBllhJQSRh45ckQCSAKYWDUpAgbKslAQHEDc6/RDNWSpCAfD69mzJ1b3448/3rR+kEJFQHVFiw8YiZFRKalDWC2FlFdTVtsecCYWL168RYsWHKmcrQwMw+OOx+bq+FMjLKOIR6FmI4+/zhjGRH8QUdi6D0Kzky5KnzAn/FLNmjVRES4h+j5ryZIljY4iT/SojRGITLAos1AQNGKyeK01a9bs2rWLYxXlM3yMTa1x90PL0XWKfv31V/PBV7Zs2RCAUKoPx5SVEYqpUrJiAn0kID5Wzby8A1QmovsY+0tqc61PFE1WGp8vXz7OoPz583MfkzBYu3YtI6df89SAXmhQtACHJYXYuHHjgAEDiBpQ7q+//lql0Q+mw8gZFSk0c9EEmYUMb8KECez1+PHjO3XqVL58eQxPqx0j+MsIGSibp3HbrKcR2hvCjNq1a2N1ixYtWrdu3ZQpUwYNGlSvXr1SpUrpK60sBdum1SAN8U9mYBI6yoa1xyg9WbvYUgJsTE/8kAE4KN2jaI0IEF2nFvTOnTv1dB6ac9DcGynVk0z4AKXX7hgPjAxRIgR8DgiKNGb4dE37VjM2dBakT5+eNsXhQkh1quBOyULQFK7422+//eSTT7BG5OETsi5dulS9cPTA8fRtPdRhhJ6GLIhJ71988QXye/bsOXfunFqOETBaUsbDqLAu9rRx48ZjxoxhrydNmsT9vEKFCjDl7c0ia/WiH3/pDfcKdojFZdw2yz9h6YPHctASdBqL4qKC1UnPtD0NGzYk9sDq0DYE0GyYVJF3QgybEcEBj9MjCvU0+mBlaASOoanlvX+Eavgoeid8RQNoBxCDYWxqoWjRoiy1GsQTXrhwQRVBzpw5pdwUsSPQECoSgbUb7YdD1xASAwzm0qVLpEAygNiPIpaievXq2Dk0TDo9efIk1devX29V9ayYgMejQQhc+pAhQ44ePYo8Ezx9+vSWLVtQYryH3tu0mrdBC3SqiqIh7LKoAG3KqLyzQN0BEaQcSZwXbHqTJk04Xjds2PD5559z4L788stJkyZlrxkkFc0IFRZBeC9adOKvXlELBsc4NBOb629g8Frf5MmTc88msCRAwt0RGs2bN+/VV1/1bNd/PV+Q054Jhtb0US995G3t8v/pS+JqXIDGWtg80aTerzrgduCgBO+++y5ZWsDtoAe6+1HLfM2HjvCE8pBkQXBwMPJ0TZHZBfh4JPgwGaHRfn1Yx65hrpRKUinGZonYaNSoUf/+/Zs1ayYxjgkWhMCVurg+oL5UHTDU3bt3E1jq/UxxevTo0bp166lTp2K3+sjkUah9LZ1pLaogC4egZQiWQvtFymFHfJEnT5769etzcCxbtmzx4sVdu3YtU6aM91IgGYIwi2yI6MdfRsgJoZFpBcX0OzAFxo+WE/GjNAULFmTnVJQ3b95evXoVKlQIATkErAW/gbYRRGEMcACSP//8M14CAkk4uXPnVmQIBwOAA82lTi2TRcz7xkjvuAvsnx4lvHDhwq1bt1KEJB4JAQhw6tQpYjb9twnV1VtaEMYNStIoPSM3CoQtqZQuSCVMg6Qm7ARp06ZlKSpVqiQlRgz3O2fOHNFg8ODB3I6IIY8cObJ//35cx8CBA9955x2MDRkaV49mBUjNZ+vRBsapATAkZQFRd5EiRRo0aDB06NAZM2YsWLCAmVauXJngxUj6Pv4yQnadQ5rlZm42yw/B4FH9vn37Ei6aPZBlQiROnJiTEppoCpmmFt544w29digxLJO9NA8eAT5NNA5NzwkRxgj1oIIilMP7VQdWkoDTHMCsqp6pUhHJLFmypEqVSousd471yjWgCz2bgaZBDFs0KaA64F5nyXqY+rAeD0BFisSXX/U+FFREShUIQkoOI2JU6jIeLJOTCA3WarRo0YIr0/Lly/G95hRQRQjk6QtaaXRCJwgDINTE8PDqnHRcXydOnIjhEWpmzpxZMwUasDfhy3hoKaUoIPqXOJJgrdkeRo7Go0b6AIAsZrNt2zZddLUfWBT6TQCGnnHqnzt3jkCLLcRDSmDv3r3bt28XDYgzdf2Dc+jQoWPHjkGzPugEdghTy6VwVH4SeGpaAwAMrEKFCtxPpMH6lWvJMAAI89okwMZUC0nNCCYjxOmRxZvp599hkv3uu++g2TWyENo1+IDxiCmO0sOHD3MT7t69uz43B7QPHwJhBs9y6bMHDUAtQCsV09PiA2bkQTvqzowWQCurlFI91WzZsiUmR5yJ+XXp0uWFF17IlCkTkYUGplQEu2M4VpM+jYeGyBGu+QOb5T9guRk2x2GpUqXk0jnLuZV16NBh1KhRZka4CLQWzYNDyj5xP8Q9Ig/+/PNPLm96j5kiZAhsCOegwY8//qjH+oAsRqhaNEsWJjQppoVr7datG0arItIqVarok1gctakC87PPPhszZowaJOVSgJ+klPOekFJ1UanSpUv36dMH700j6ojB0D7jZEYSg2bKlDJ9zh3M6fLlyzt27FCQVrt2bbwHgTc3SaojTJUYB6MFEJoCqcDc0UZuE2+++SY3i2+++eajjz5q3759uXLl2A4MT2v4dOChmeiVCDvjV2DbGDkp26YPzTjXufmgguiiHgOidsRvp0+fhqMqKCtMjliCQLVw/PjxTZs2EZFSBBArUaIEnlONY114LQgJB1v/L0XajM2ISfrTTz9hWmvWrMG6PIOzkCZNGgZGU/peOYD53HPPcQlk2aGpS4q9cbpDA/lVJDEz3Hu9evXQS3WHA0cpmQ404SgyCGNdOGrMj/HPnTsX3ysPPGTIEGyPQBqBe/fu0QKgI+rGLBi2cVmAxeGOV6BAAQ4LjZlZcIayQSwRpRozkqr+1OAhI9QHQf44SbSKvUT/9Ho+gGk2+MSJE7Nnz37vvfe4/rVr187b0eF5atSoQbSjWl9++SWXJWqh07TGxufLl09dUIrnOX/+PDTVSWW6AHnaUQvAEvfInD17VjRMjSRHjhzYjGQQEGEaIcXedJvlsJeLMzISAFzhBg8eTNgMzRw5VgjPOnfu3Lhx43feeYfYFT7jxOqYhRSXukop0lpRBOcJwSyCQKcmDVFENnXq1BxMzZs3nzBhwqJFi+bMmUOoqY8TKAXe1VVFxFODv4yQuTFtCDNbP4JUDVtCccVhFlzfn3/+eRQOjRw7duzGjRv1NiNFMGVInLIlrR/nAxcvXlyxYgWE2XgCV32cQJZ7FO1gACoFhKOksiUTEwI9GsGRmnfi6e7q1atYtb5yLjXCqX7//fdcTfUDmxoPyGP9ejwN0oK3oUJgbwsXLmzVqhW3QbLCgQMHMEICNs4a8zYpKUUiNEgIgbUia0Yb5aBlNc4AxNEsNAaGRCkhN7cGQk38+axZszgiO3XqBEfvIRlIOAQ0qacJf82H6em+AWGz/Ac619lmFNFMASVmj7kWQrBzKF+I2cGpVq2aHmzA5+7Encous5A8eXLzxQg8D+3cvn1big6IkQifqEi/OC5SKY15z1O/xQSofvjwYSoWLVoUGjEGzE21Y8eOXPM+/fRTAl0NjFI9IFVTRM7Y2MqVKxFu2bJlmzZthg0bRswsYV8GI5S1QLDO0MRZ3Gw5QTgyuOaNGzeOqKRMmTJBQUEsrGr9PfHQoaL7rk4s/4I8ISPfsmXLHev3VKSm8N9+++2lS5e+8MILYqLfVg0PUHfcIBz4WBdu0LsU4LjkWuHTODFSzZo1VQRQnSxZslAXaACIAZpKly4dMZV+2JNSmNu2bcMIzaNRHDJXVmyMLGuul2ag6YX7Hpx9+/ZhdXT31ltv9e/fH3fBVVOXWyR9eY+YBRAdJ06c/Pnzc6ElEmEXOEo4RzBFbg0UsQ4Sk7n+bfGQUnIV7tWrl7bZ76CNZ/Bobfv27XWaYBtMkCJSZjdw4EA9mUASzqBBg6pXry6a28iQIUMkCUd1uXpVqVKFpuDDgaAUiENfQ4cOJT5EnxYvXpwpUyaJIYB9qhckEcM/N2nSBIvlwgMT4BixMb1QRpaiEiVKcOfEMolaxVRdEZ461qjoAkBLJnpgxgMBIDRNcVgohnT//n2y3KKZe4YMGQoVKkR4WbhwYT2yUiMQWkarVQ/EtDN/Vzy0HPqc0E+NkPEDNhinQcxmHsQLzAtzgo+k5oizqly5srJ4JGJRxNQOKXUBN0ZSaQmEhA0H5dM3AAnjjcOECdQIvQCixw4dOjCe7Nmz4wC5VWJpGC0WSDsCVoox//LLL6iy6gING8ARoOGLlkz0gCljWhqAxsMczWBIWQEuz82bN8fXrV69mtl169aN6COR9f9erDbsU1LLaGBK/874yxNCcDNp2rSp3nsS00+B+hJJtm7dmsPYaA98VBx70FONHj16NGjQQDqB0uAkraoeLcFySNGqJUuWqK7S69evnz9/nntg6gc/trtz505iLa6OuDisWr3IeCCw7a1bt06YMEG3OCqmTJkSI7x8+TLt06Z6h/C05cMwiwAtgjR9+vRc5/B4uXPnzpUrF7Oj1MzLnCBWAwGEhYeM8NSpU7Vq1UJTjRr5I6QBEKS1a9fmTqinlFKdmTNnjhkzBg4GxjkNH49EBMsdDBoBask26tev37NnTwiwadOmzz///OzZs1euXOGe1qlTJ/G5v+Fg8YfTp0/HFKnIjRTm6dOnjx07xj1w165dhJc0K9U0q62O5DMN05ehQep3NXNY/4CFmDNNmjSxHnzp0ZKyxcgCaMMPIAw8ZIRoWNWqVQmc/HHtzOmrvYfW1DiwP/vsM30ECoebYffu3fGHGJ6Ely1bxtWOy0zWrFk52gsWLIh/Q+zDDz9UvErLAwYMoBHkwSuvvII89kMXN27cqFevHkFmmzZtcHGEEkeOHPnzzz8xRWzPM6zQoBHamZiD1kfrxnTw/2Q1MBVBQ7B0ODoii9KlS7OYiRMnjuv104wBRB5/GSFAmcqXL3/79m12xWb5CVAgbmXoff78+YsVK5Y3b15O6z59+nDLYoJcBV977TU5omnTps2dO5cLGKe4FO7AgQNchommaAHApPSDDz5Ys2aN3pYmNCBwPXjwoORxBcOHD6cWVzt984AAnq4V9yIg3YXwcWicSoHskFViLhxJWF3JkiWff/55PF4c61+V6IxDwK4fQBThIXVhlcuVK3fN+hc83ny/AGNOlizZ7NmzM2bMSJa5tG/ffuPGjQkSJCAE1SvdmFPnzp05yLExbEZi0irmC4EW0o6+MoetYpO4tcOHDxN/6iN4BBRDyuxV3TQiJfajpWOoTAerIzKPHz8+h06RIkWKFi2KBeodIGTMsgCySgOIQvx1qmnFcQgKtMR8HLz1zBd2hTEwZlJdURgeNPfbbNmyNWnSRD+gBM6cOYP7wnhkgUA2Y6bD3LG63377DedGRDpy5EgC13bt2umVURmbGocgK8CRmtICqWktpqCRGGg8IUalKWB1hN+tWrXCty9YsGDWrFlt27bFASrgRABQkVRtxvjUnkqE9ITNmzf3/h9xYUB7A8H2UFG75d1adEKDQXXmzZtnPkCHiS0RWSl77969KVOmTJ8+vVGjRlwLzVCxn4sW9u3bR5B5/vz5Q4cOYYoxNZfIgGmyF6SixTQTgeD0IV4gwixevDjujmswxy5MIxxA9OMvI4RgJzj1CeHC1T+z2UDChogpMADMiTizevXqGKR3BKUzYvHixWPHjr1161bTpk0bNmzIHe/YsWNYHe7x5s2bRJtYKbV0suhMMVl/gSZupgDNLCAwPO7J+fLlK1SoEN4vefLkemfd1BIRQIzgISNEWfv37//55597ChwcjcgnTZo0Xbp0qDI0Byq7bpdFO2RpDOaTTz7RV/KYgpi4Na6FXBf/+OMPBdspUqS4ceMGfLKqzvSNxTIRUvH9DsyCuYDEiRNjdXny5CG8xPASJkwY6rvBkg/BDCA68ZD7gh4yZMjChQvZErSQLBpM6q2XceLE0aMzdrdcuXI5c+bcv38/joUihGNKd6VD9M4YiK8IqosUKUJ0yu1u+/btq1atItqUjHQOghRaTDNsbBK+II4EYhaMgfEwNc44aEZLSpYiDRWQZV/YnezZsxNqlipVig3i9qsWEFAjSsUUVNfOBBAT+GtLREyyYLaKFL3UIcr9gWCGDc6dO7ce5Uvs5MmT1apVg5aKWI3FJBiShoFuQUtlVeSnYPzes1BW08TqEiVKxB2PQ6dYsWJsjd5A8Pcp/60Q0gjnz5/PtUrHasqUKQljSpcuje2xzYQ3RhukAaRIXr16FZdoOGotBqGReA9GHNF+B1ZYpxuQ7WF4hNME3sQjnIm5cuXSjwkgrGmaFbAaCMDXEdJsNm7cuGLFCqyOYAYLZLNhsp2IGUntLqmU4/bt22XLlv3Pg5ezJBOD0Bg0GKW6B6rUH8EUuA5wJmJvIH/+/HplTMEzc0QmxOJDB4JMf0FIs8GWSNlyZYHZZkOEwB9//FGlSpVL1v/7D1UgpsBgGPPjhh2zYEgcYUT1963fszG+zi62VhskTZoUqytcuHDBggWDgoK47uoTvBDwzTkG4BAhjTACwAjr1q176tSpyDf19wFuSoE9KZCvFpPrNyaH4XHHy549O1aHlVIUsLSnFVFghPfu3WvevPkvv/yCogS0xCFYdtkV5oeN6akm1++iRYsGBweT1Uqa3RFBFWUDeJoQNUbYvn37zZs3BywwDLDOrI9J48WLx307bdq0RYoUwe9xA0/wyD9plaQ37V0awFODKDBCrpEywsg35deQkQBCShFaEGM8OL1UqVJlyZJFH/NkypTJvFTgqR/A3xVRYIS00KdPn2XLlv3NlYnpe5sf0E0PYwN4vAIFCqRPnz5JkiTwkbGrBYzwb48oMEL0bNy4cdOmTQvcCVlMWSChJrc7gkycXsqUKRMmTBj7wc94GzEIlg6DtKoG8PdF1Bjh9OnTP/roI/kBm/vUwdt+SA0Bk9MnjvU2X758+bC9EiVK4PH0EpkkzQMVaFNdD2ae4hULwCGixghXrlxJRBr5pnwNMhKZDdOUq9dZAzCzBNY/GyTULFy4cP78+fU2X8C0AnCFKDBCWvjmm286duwY+aZ8DdjS/z745ZV/Wf/qKH78+MmTJ8+QIcNzzz2H7XHZg+NtcgEjDMAtosYIf/nll6ZNm0r/bO5TBOaVOnXqzJkzly5dOnfu3EFBQVzz4HvHk4bQIogOIAAniBojPHr0aK1atSLfVDQA81A8+c8Hvy/GsIGxKEr1HhmWlidPnkKFChFnprFgHqJIUnQAAUQSUWCEaO2FCxcqV64c+aaiAbI3CJmiyQIMD0srUKAAVgf0cQIGGbC3AJ4oosYTXr16FU94/fp1v7BDGRVDxcBix44dK1YsPB629/LLL3PZ8/7MQJKy1YApBvCEEDVGeOPGjddff/3ixYs2y4fBaOPGjZsoUaJcuXI999xz+fLlg9BvtBnfSCpCVQBZmwoggKhG1BjhnTt3GjduzM3QZkU7ZDO615ElBWIqxeMFBQVlyZKlWLFiWB1E4sSJVdFqIIAAYgxRY4T6IsWePXtiSqe9TU4cCGwyY8aMmTNnJtTE42XKlClZsmTeI4T2zgYQQIwgCoyQKO7+/futW7f+6aefbFa0w9uW9D/Qi1pIkSIFkSd3Pz19YbJADjNgfgH4CKLGE5K2adNm06ZNUajZNKWWMXJjQibgNB0pyzWPC15x6x/Qp0yZkjtenDhxJAAkA0ybIqJwtAEEEGFEgRECGunTp8+j/246ksBI9LAEOoTxxIsXL0mSJPpBWzxenjx5jEUZIoAA/AJRYIRqYcSIEZ9++qk4UQ66AFidXhkrYv3TkmzZspkfXNEYZKJymwEE4C+IGk+Iv9I/34xaL0SzBJbp06cPDg4m2syaNWvmzJn1nwbVEYOHkLcEylpVAwjAbxBlRrhkyZIBAwaEawMyFTvzwIP988FPEhorypgxY4ECBfB4OXPmfPbZZ1OlShWqjRnOo0UBBOAviAIjpAWwevXq7t27h2sJCGBvyOv9TGNCpBhe/vz59ZOnadOmTZQoEaUGVu0AAngKEWVGuGXLlnfeeSdsa1Ff5hMCbnRx4sQpXLhw8eLFixUrhruLbUGSkrHqBZ61BPA0IwqMUJHkzp07mzdvHq61xIsXL3HixASZ+kFbXB9VzKMUaNmeGVXA/AJ46hE1npD00KFDLVu2vHHjhpjGeDDR+PHjp06dmmizRIkS3PTMU82AgQUQAIgaI8ScTpw40axZs6tXr8IhS5yZIUOGzJkz60O8oKAgHKD5zF3mFzDCAAIAUWOE4NKlS3jCf/7zn7ly5cLwgoOD06RJkyxZMn0zSPZm+iILHTDCAAIAUWaEhJ23b9/G13HrM1/J87Y9Y3hKrfIAAvjb4x//+P+Jfr/geeGj3AAAAABJRU5ErkJggg==",
+                "pictureFileName": "bob1.bmp",
+                "pictureMimeType": "image/bmp",
+                "texts": null,
+                "inputTexts": null,
+                "inputValueList": null,
+                "isGDPRData": false
+              },
+              {
+                "id": 1379,
+                "layoutDataName": "BOB_DATAMATRIX",
+                "layoutDataType": "Image",
+                "inputType": "CALCULATED",
+                "posX": 39,
+                "posY": 0,
+                "width": 15,
+                "height": 15,
+                "borderStyle": "NONE",
+                "borderWidth": 0,
+                "fontName": null,
+                "fontSize": 0,
+                "fontTypography": "BOLD",
+                "formatString": null,
+                "horizontalAlign": "CENTER",
+                "verticalAlign": "CENTER",
+                "zOrder": 1,
+                "isRequired": false,
+                "pictureContent": null,
+                "pictureFileName": null,
+                "pictureMimeType": null,
+                "texts": null,
+                "inputTexts": null,
+                "inputValueList": null,
+                "isGDPRData": false
+              },
+              {
+                "id": 1381,
+                "layoutDataName": "TEXT",
+                "layoutDataType": "Text",
+                "inputType": "STATIC",
+                "posX": 41,
+                "posY": 14,
+                "width": 11,
+                "height": 11,
+                "borderStyle": "SOLID",
+                "borderWidth": 0.2,
+                "fontName": "ARIALN",
+                "fontSize": 8,
+                "fontTypography": "BOLD",
+                "formatString": null,
+                "horizontalAlign": "CENTER",
+                "verticalAlign": "TOP",
+                "zOrder": 1,
+                "isRequired": false,
+                "pictureContent": null,
+                "pictureFileName": null,
+                "pictureMimeType": null,
+                "texts": [
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "Csúszás",
+                    "shortText": "Csúszás"
+                  },
+                  {
+                    "languageCode": "HU",
+                    "text": "Csúszás",
+                    "shortText": "Csúszás"
+                  },
+                  {
+                    "languageCode": "EN",
+                    "text": "Slide",
+                    "shortText": "Slide"
+                  },
+                  {
+                    "languageCode": "DE",
+                    "text": "Csúszás",
+                    "shortText": "Csúszás"
+                  }
+                ],
+                "inputTexts": [
+                  {
+                    "languageCode": "HU",
+                    "text": null,
+                    "shortText": null
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": null,
+                    "shortText": null
+                  }
+                ],
+                "inputValueList": null,
+                "isGDPRData": false
+              },
+              {
+                "id": 1383,
+                "layoutDataName": "INNER_TICKET_COUNT",
+                "layoutDataType": "Text",
+                "inputType": "CALCULATED",
+                "posX": 41,
+                "posY": 18,
+                "width": 11,
+                "height": 3,
+                "borderStyle": "NONE",
+                "borderWidth": 0,
+                "fontName": "ARIALN",
+                "fontSize": 18,
+                "fontTypography": "BOLD",
+                "formatString": null,
+                "horizontalAlign": "CENTER",
+                "verticalAlign": "CENTER",
+                "zOrder": 1,
+                "isRequired": false,
+                "pictureContent": null,
+                "pictureFileName": null,
+                "pictureMimeType": null,
+                "texts": [
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "",
+                    "shortText": ""
+                  },
+                  {
+                    "languageCode": "HU",
+                    "text": "",
+                    "shortText": ""
+                  }
+                ],
+                "inputTexts": [
+                  {
+                    "languageCode": "HU",
+                    "text": null,
+                    "shortText": null
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": null,
+                    "shortText": null
+                  }
+                ],
+                "inputValueList": null,
+                "isGDPRData": false
+              },
+              {
+                "id": 1385,
+                "layoutDataName": "TEXT",
+                "layoutDataType": "Text",
+                "inputType": "STATIC",
+                "posX": 41,
+                "posY": 22,
+                "width": 11,
+                "height": 3,
+                "borderStyle": "null",
+                "borderWidth": 0,
+                "fontName": "ARIALN",
+                "fontSize": 8,
+                "fontTypography": "BOLD",
+                "formatString": null,
+                "horizontalAlign": "CENTER",
+                "verticalAlign": "TOP",
+                "zOrder": 1,
+                "isRequired": false,
+                "pictureContent": null,
+                "pictureFileName": null,
+                "pictureMimeType": null,
+                "texts": [
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "Slide",
+                    "shortText": "Slide"
+                  },
+                  {
+                    "languageCode": "HU",
+                    "text": "Slide",
+                    "shortText": "Slide"
+                  },
+                  {
+                    "languageCode": "EN",
+                    "text": "Slide",
+                    "shortText": "Slide"
+                  },
+                  {
+                    "languageCode": "DE",
+                    "text": "Slide",
+                    "shortText": "Slide"
+                  }
+                ],
+                "inputTexts": [
+                  {
+                    "languageCode": "HU",
+                    "text": null,
+                    "shortText": null
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": null,
+                    "shortText": null
+                  }
+                ],
+                "inputValueList": null,
+                "isGDPRData": false
+              },
+              {
+                "id": 1387,
+                "layoutDataName": "PRINTED_TICKET_NAME",
+                "layoutDataType": "Text",
+                "inputType": "CALCULATED",
+                "posX": 0,
+                "posY": 29,
+                "width": 54,
+                "height": 4,
+                "borderStyle": "NONE",
+                "borderWidth": 0,
+                "fontName": "BarlowCondensed_SemiBold",
+                "fontSize": 12,
+                "fontTypography": "",
+                "formatString": null,
+                "horizontalAlign": "CENTER",
+                "verticalAlign": "CENTER",
+                "zOrder": 1,
+                "isRequired": false,
+                "pictureContent": null,
+                "pictureFileName": null,
+                "pictureMimeType": null,
+                "texts": [
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "Ft",
+                    "shortText": "Ft"
+                  },
+                  {
+                    "languageCode": "HU",
+                    "text": "Ft",
+                    "shortText": "Ft"
+                  }
+                ],
+                "inputTexts": [
+                  {
+                    "languageCode": "HU",
+                    "text": null,
+                    "shortText": null
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": null,
+                    "shortText": null
+                  }
+                ],
+                "inputValueList": null,
+                "isGDPRData": false
+              },
+              {
+                "id": 1389,
+                "layoutDataName": "TEXT",
+                "layoutDataType": "Text",
+                "inputType": "STATIC",
+                "posX": 0,
+                "posY": 33,
+                "width": 54,
+                "height": 3,
+                "borderStyle": "NONE",
+                "borderWidth": 0,
+                "fontName": "ARIALN",
+                "fontSize": 7,
+                "fontTypography": "BOLD",
+                "formatString": null,
+                "horizontalAlign": "CENTER",
+                "verticalAlign": "CENTER",
+                "zOrder": 1,
+                "isRequired": false,
+                "pictureContent": null,
+                "pictureFileName": null,
+                "pictureMimeType": null,
+                "texts": [
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "A csúszások száma személyenként értendő!",
+                    "shortText": "A csúszások száma személyenként értendő!"
+                  },
+                  {
+                    "languageCode": "HU",
+                    "text": "A csúszások száma személyenként értendő!",
+                    "shortText": "A csúszások száma személyenként értendő!"
+                  }
+                ],
+                "inputTexts": [
+                  {
+                    "languageCode": "HU",
+                    "text": null,
+                    "shortText": null
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": null,
+                    "shortText": null
+                  }
+                ],
+                "inputValueList": null,
+                "isGDPRData": false
+              },
+              {
+                "id": 1401,
+                "layoutDataName": "TEXT",
+                "layoutDataType": "Text",
+                "inputType": "STATIC",
+                "posX": 0,
+                "posY": 35,
+                "width": 54,
+                "height": 3,
+                "borderStyle": "NONE",
+                "borderWidth": 0,
+                "fontName": "ARIALN",
+                "fontSize": 7,
+                "fontTypography": "BOLD",
+                "formatString": null,
+                "horizontalAlign": "CENTER",
+                "verticalAlign": "CENTER",
+                "zOrder": 1,
+                "isRequired": false,
+                "pictureContent": null,
+                "pictureFileName": null,
+                "pictureMimeType": null,
+                "texts": [
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "Kérjük a szabályok elolvasását és betartását!",
+                    "shortText": "Kérjük a szabályok elolvasását és betartását!"
+                  },
+                  {
+                    "languageCode": "HU",
+                    "text": "Kérjük a szabályok elolvasását és betartását!",
+                    "shortText": "Kérjük a szabályok elolvasását és betartását!"
+                  }
+                ],
+                "inputTexts": [
+                  {
+                    "languageCode": "HU",
+                    "text": null,
+                    "shortText": null
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": null,
+                    "shortText": null
+                  }
+                ],
+                "inputValueList": null,
+                "isGDPRData": false
+              },
+              {
+                "id": 1403,
+                "layoutDataName": "TEXT",
+                "layoutDataType": "Text",
+                "inputType": "STATIC",
+                "posX": 0,
+                "posY": 37,
+                "width": 54,
+                "height": 3,
+                "borderStyle": "NONE",
+                "borderWidth": 0,
+                "fontName": "ARIALN",
+                "fontSize": 7,
+                "fontTypography": "BOLD",
+                "formatString": null,
+                "horizontalAlign": "CENTER",
+                "verticalAlign": "CENTER",
+                "zOrder": 1,
+                "isRequired": false,
+                "pictureContent": null,
+                "pictureFileName": null,
+                "pictureMimeType": null,
+                "texts": [
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "A pálya végén a kiszállás kötelező, a",
+                    "shortText": "A pálya végén a kiszállás kötelező, a"
+                  },
+                  {
+                    "languageCode": "HU",
+                    "text": "A pálya végén a kiszállás kötelező, a",
+                    "shortText": "A pálya végén a kiszállás kötelező, a"
+                  }
+                ],
+                "inputTexts": [
+                  {
+                    "languageCode": "HU",
+                    "text": null,
+                    "shortText": null
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": null,
+                    "shortText": null
+                  }
+                ],
+                "inputValueList": null,
+                "isGDPRData": false
+              },
+              {
+                "id": 1405,
+                "layoutDataName": "TEXT",
+                "layoutDataType": "Text",
+                "inputType": "STATIC",
+                "posX": 0,
+                "posY": 39,
+                "width": 54,
+                "height": 3,
+                "borderStyle": "NONE",
+                "borderWidth": 0,
+                "fontName": "ARIALN",
+                "fontSize": 7,
+                "fontTypography": "BOLD",
+                "formatString": null,
+                "horizontalAlign": "CENTER",
+                "verticalAlign": "CENTER",
+                "zOrder": 1,
+                "isRequired": false,
+                "pictureContent": null,
+                "pictureFileName": null,
+                "pictureMimeType": null,
+                "texts": [
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "bérletjegyekkel is sorba kell állni! Kötelező",
+                    "shortText": "bérletjegyekkel is sorba kell állni! Kötelező"
+                  },
+                  {
+                    "languageCode": "HU",
+                    "text": "bérletjegyekkel is sorba kell állni! Kötelező",
+                    "shortText": "bérletjegyekkel is sorba kell állni! Kötelező"
+                  }
+                ],
+                "inputTexts": [
+                  {
+                    "languageCode": "HU",
+                    "text": null,
+                    "shortText": null
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": null,
+                    "shortText": null
+                  }
+                ],
+                "inputValueList": null,
+                "isGDPRData": false
+              },
+              {
+                "id": 1407,
+                "layoutDataName": "TEXT",
+                "layoutDataType": "Text",
+                "inputType": "STATIC",
+                "posX": 0,
+                "posY": 41,
+                "width": 54,
+                "height": 3,
+                "borderStyle": "NONE",
+                "borderWidth": 0,
+                "fontName": "ARIALN",
+                "fontSize": 7,
+                "fontTypography": "BOLD",
+                "formatString": null,
+                "horizontalAlign": "CENTER",
+                "verticalAlign": "CENTER",
+                "zOrder": 1,
+                "isRequired": false,
+                "pictureContent": null,
+                "pictureFileName": null,
+                "pictureMimeType": null,
+                "texts": [
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "követési távolság min, 25m! A pálya végén",
+                    "shortText": "követési távolság min, 25m! A pálya végén"
+                  },
+                  {
+                    "languageCode": "HU",
+                    "text": "követési távolság min, 25m! A pálya végén",
+                    "shortText": "követési távolság min, 25m! A pálya végén"
+                  }
+                ],
+                "inputTexts": [
+                  {
+                    "languageCode": "HU",
+                    "text": null,
+                    "shortText": null
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": null,
+                    "shortText": null
+                  }
+                ],
+                "inputValueList": null,
+                "isGDPRData": false
+              },
+              {
+                "id": 1409,
+                "layoutDataName": "TEXT",
+                "layoutDataType": "Text",
+                "inputType": "STATIC",
+                "posX": 0,
+                "posY": 43,
+                "width": 54,
+                "height": 3,
+                "borderStyle": "NONE",
+                "borderWidth": 0,
+                "fontName": "ARIALN",
+                "fontSize": 7,
+                "fontTypography": "BOLD",
+                "formatString": null,
+                "horizontalAlign": "CENTER",
+                "verticalAlign": "CENTER",
+                "zOrder": 1,
+                "isRequired": false,
+                "pictureContent": null,
+                "pictureFileName": null,
+                "pictureMimeType": null,
+                "texts": [
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "lassan! Ütközni TILOS és veszélyes!",
+                    "shortText": "lassan! Ütközni TILOS és veszélyes!"
+                  },
+                  {
+                    "languageCode": "HU",
+                    "text": "lassan! Ütközni TILOS és veszélyes!",
+                    "shortText": "lassan! Ütközni TILOS és veszélyes!"
+                  }
+                ],
+                "inputTexts": [
+                  {
+                    "languageCode": "HU",
+                    "text": null,
+                    "shortText": null
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": null,
+                    "shortText": null
+                  }
+                ],
+                "inputValueList": null,
+                "isGDPRData": false
+              },
+              {
+                "id": 1413,
+                "layoutDataName": "TEXT",
+                "layoutDataType": "Text",
+                "inputType": "STATIC",
+                "posX": 0,
+                "posY": 47,
+                "width": 54,
+                "height": 3,
+                "borderStyle": "NONE",
+                "borderWidth": 0,
+                "fontName": "ARIALN",
+                "fontSize": 7,
+                "fontTypography": "BOLD",
+                "formatString": null,
+                "horizontalAlign": "CENTER",
+                "verticalAlign": "CENTER",
+                "zOrder": 1,
+                "isRequired": false,
+                "pictureContent": null,
+                "pictureFileName": null,
+                "pictureMimeType": null,
+                "texts": [
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "The tickets are per person! We ask You to read",
+                    "shortText": "The tickets are per person! We ask You to read"
+                  },
+                  {
+                    "languageCode": "HU",
+                    "text": "The tickets are per person! We ask You to read",
+                    "shortText": "The tickets are per person! We ask You to read"
+                  }
+                ],
+                "inputTexts": [
+                  {
+                    "languageCode": "HU",
+                    "text": null,
+                    "shortText": null
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": null,
+                    "shortText": null
+                  }
+                ],
+                "inputValueList": null,
+                "isGDPRData": false
+              },
+              {
+                "id": 1415,
+                "layoutDataName": "TEXT",
+                "layoutDataType": "Text",
+                "inputType": "STATIC",
+                "posX": 0,
+                "posY": 49,
+                "width": 54,
+                "height": 3,
+                "borderStyle": "NONE",
+                "borderWidth": 0,
+                "fontName": "ARIALN",
+                "fontSize": 7,
+                "fontTypography": "BOLD",
+                "formatString": null,
+                "horizontalAlign": "CENTER",
+                "verticalAlign": "CENTER",
+                "zOrder": 1,
+                "isRequired": false,
+                "pictureContent": null,
+                "pictureFileName": null,
+                "pictureMimeType": null,
+                "texts": [
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "the rules and keep them! Please stand in the queue",
+                    "shortText": "the rules and keep them! Please stand in the queue"
+                  },
+                  {
+                    "languageCode": "HU",
+                    "text": "the rules and keep them! Please stand in the queue",
+                    "shortText": "the rules and keep them! Please stand in the queue"
+                  }
+                ],
+                "inputTexts": [
+                  {
+                    "languageCode": "HU",
+                    "text": null,
+                    "shortText": null
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": null,
+                    "shortText": null
+                  }
+                ],
+                "inputValueList": null,
+                "isGDPRData": false
+              },
+              {
+                "id": 1417,
+                "layoutDataName": "TEXT",
+                "layoutDataType": "Text",
+                "inputType": "STATIC",
+                "posX": 0,
+                "posY": 51,
+                "width": 54,
+                "height": 3,
+                "borderStyle": "NONE",
+                "borderWidth": 0,
+                "fontName": "ARIALN",
+                "fontSize": 7,
+                "fontTypography": "BOLD",
+                "formatString": null,
+                "horizontalAlign": "CENTER",
+                "verticalAlign": "CENTER",
+                "zOrder": 1,
+                "isRequired": false,
+                "pictureContent": null,
+                "pictureFileName": null,
+                "pictureMimeType": null,
+                "texts": [
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "with seasontickets as well. Keep at least 25m",
+                    "shortText": "with seasontickets as well. Keep at least 25m"
+                  },
+                  {
+                    "languageCode": "HU",
+                    "text": "with seasontickets as well. Keep at least 25m",
+                    "shortText": "with seasontickets as well. Keep at least 25m"
+                  }
+                ],
+                "inputTexts": [
+                  {
+                    "languageCode": "HU",
+                    "text": null,
+                    "shortText": null
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": null,
+                    "shortText": null
+                  }
+                ],
+                "inputValueList": null,
+                "isGDPRData": false
+              },
+              {
+                "id": 1419,
+                "layoutDataName": "TEXT",
+                "layoutDataType": "Text",
+                "inputType": "STATIC",
+                "posX": 0,
+                "posY": 53,
+                "width": 54,
+                "height": 3,
+                "borderStyle": "NONE",
+                "borderWidth": 0,
+                "fontName": "ARIALN",
+                "fontSize": 7,
+                "fontTypography": "BOLD",
+                "formatString": null,
+                "horizontalAlign": "CENTER",
+                "verticalAlign": "CENTER",
+                "zOrder": 1,
+                "isRequired": false,
+                "pictureContent": null,
+                "pictureFileName": null,
+                "pictureMimeType": null,
+                "texts": [
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "behind the coasterbob in front. Everybody must",
+                    "shortText": "behind the coasterbob in front. Everybody must"
+                  },
+                  {
+                    "languageCode": "HU",
+                    "text": "behind the coasterbob in front. Everybody must",
+                    "shortText": "behind the coasterbob in front. Everybody must"
+                  }
+                ],
+                "inputTexts": [
+                  {
+                    "languageCode": "HU",
+                    "text": null,
+                    "shortText": null
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": null,
+                    "shortText": null
+                  }
+                ],
+                "inputValueList": null,
+                "isGDPRData": false
+              },
+              {
+                "id": 1421,
+                "layoutDataName": "TEXT",
+                "layoutDataType": "Text",
+                "inputType": "STATIC",
+                "posX": 0,
+                "posY": 55,
+                "width": 54,
+                "height": 3,
+                "borderStyle": "NONE",
+                "borderWidth": 0,
+                "fontName": "ARIALN",
+                "fontSize": 7,
+                "fontTypography": "BOLD",
+                "formatString": null,
+                "horizontalAlign": "CENTER",
+                "verticalAlign": "CENTER",
+                "zOrder": 1,
+                "isRequired": false,
+                "pictureContent": null,
+                "pictureFileName": null,
+                "pictureMimeType": null,
+                "texts": [
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "get out of the bob at the end of the track! Crashing",
+                    "shortText": "get out of the bob at the end of the track! Crashing"
+                  },
+                  {
+                    "languageCode": "HU",
+                    "text": "get out of the bob at the end of the track! Crashing",
+                    "shortText": "get out of the bob at the end of the track! Crashing"
+                  }
+                ],
+                "inputTexts": [
+                  {
+                    "languageCode": "HU",
+                    "text": null,
+                    "shortText": null
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": null,
+                    "shortText": null
+                  }
+                ],
+                "inputValueList": null,
+                "isGDPRData": false
+              },
+              {
+                "id": 1423,
+                "layoutDataName": "TEXT",
+                "layoutDataType": "Text",
+                "inputType": "STATIC",
+                "posX": 0,
+                "posY": 57,
+                "width": 54,
+                "height": 3,
+                "borderStyle": "NONE",
+                "borderWidth": 0,
+                "fontName": "ARIALN",
+                "fontSize": 7,
+                "fontTypography": "BOLD",
+                "formatString": null,
+                "horizontalAlign": "CENTER",
+                "verticalAlign": "CENTER",
+                "zOrder": 1,
+                "isRequired": false,
+                "pictureContent": null,
+                "pictureFileName": null,
+                "pictureMimeType": null,
+                "texts": [
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "is DANGEROUS and PROHIBITED!",
+                    "shortText": "is DANGEROUS and PROHIBITED!"
+                  },
+                  {
+                    "languageCode": "HU",
+                    "text": "is DANGEROUS and PROHIBITED!",
+                    "shortText": "is DANGEROUS and PROHIBITED!"
+                  }
+                ],
+                "inputTexts": [
+                  {
+                    "languageCode": "HU",
+                    "text": null,
+                    "shortText": null
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": null,
+                    "shortText": null
+                  }
+                ],
+                "inputValueList": null,
+                "isGDPRData": false
+              },
+              {
+                "id": 1513,
+                "layoutDataName": "TEXT",
+                "layoutDataType": "Text",
+                "inputType": "STATIC",
+                "posX": 7,
+                "posY": 62,
+                "width": 5,
+                "height": 2,
+                "borderStyle": "NONE",
+                "borderWidth": 0,
+                "fontName": "ARIALN",
+                "fontSize": 6,
+                "fontTypography": "BOLD",
+                "formatString": null,
+                "horizontalAlign": "LEFT",
+                "verticalAlign": "CENTER",
+                "zOrder": 1,
+                "isRequired": false,
+                "pictureContent": null,
+                "pictureFileName": null,
+                "pictureMimeType": null,
+                "texts": [
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "Vásárlás dátuma:",
+                    "shortText": "Vásárlás dátuma:"
+                  },
+                  {
+                    "languageCode": "HU",
+                    "text": "Vásárlás dátuma:",
+                    "shortText": "Vásárlás dátuma:"
+                  }
+                ],
+                "inputTexts": [
+                  {
+                    "languageCode": "HU",
+                    "text": null,
+                    "shortText": null
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": null,
+                    "shortText": null
+                  }
+                ],
+                "inputValueList": null,
+                "isGDPRData": false
+              },
+              {
+                "id": 1515,
+                "layoutDataName": "TEXT",
+                "layoutDataType": "Text",
+                "inputType": "STATIC",
+                "posX": 7,
+                "posY": 64,
+                "width": 5,
+                "height": 2,
+                "borderStyle": "NONE",
+                "borderWidth": 0,
+                "fontName": "ARIALN",
+                "fontSize": 6,
+                "fontTypography": "BOLD",
+                "formatString": null,
+                "horizontalAlign": "LEFT",
+                "verticalAlign": "CENTER",
+                "zOrder": 1,
+                "isRequired": false,
+                "pictureContent": null,
+                "pictureFileName": null,
+                "pictureMimeType": null,
+                "texts": [
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "Date of purchase:",
+                    "shortText": "Date of purchase:"
+                  },
+                  {
+                    "languageCode": "HU",
+                    "text": "Date of purchase:",
+                    "shortText": "Date of purchase:"
+                  }
+                ],
+                "inputTexts": [
+                  {
+                    "languageCode": "HU",
+                    "text": null,
+                    "shortText": null
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": null,
+                    "shortText": null
+                  }
+                ],
+                "inputValueList": null,
+                "isGDPRData": false
+              },
+              {
+                "id": 1517,
+                "layoutDataName": "DATE",
+                "layoutDataType": "Text",
+                "inputType": "CALCULATED",
+                "posX": 22,
+                "posY": 62,
+                "width": 27,
+                "height": 4,
+                "borderStyle": "SOLID",
+                "borderWidth": 0.1,
+                "fontName": "ARIALN",
+                "fontSize": 7,
+                "fontTypography": "BOLD",
+                "formatString": "yyyy-MM-dd HH:mm:ss",
+                "horizontalAlign": "CENTER",
+                "verticalAlign": "CENTER",
+                "zOrder": 1,
+                "isRequired": false,
+                "pictureContent": null,
+                "pictureFileName": null,
+                "pictureMimeType": null,
+                "texts": null,
+                "inputTexts": [
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": null,
+                    "shortText": null
+                  },
+                  {
+                    "languageCode": "HU",
+                    "text": null,
+                    "shortText": null
+                  }
+                ],
+                "inputValueList": null,
+                "isGDPRData": false
+              },
+              {
+                "id": 1519,
+                "layoutDataName": "TEXT",
+                "layoutDataType": "Text",
+                "inputType": "STATIC",
+                "posX": 0,
+                "posY": 67,
+                "width": 54,
+                "height": 3,
+                "borderStyle": "NONE",
+                "borderWidth": 0,
+                "fontName": "ARIALN",
+                "fontSize": 7,
+                "fontTypography": "BOLD",
+                "formatString": null,
+                "horizontalAlign": "CENTER",
+                "verticalAlign": "CENTER",
+                "zOrder": 1,
+                "isRequired": false,
+                "pictureContent": null,
+                "pictureFileName": null,
+                "pictureMimeType": null,
+                "texts": [
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "Csak a vásárlás napján érvényes!",
+                    "shortText": "Csak a vásárlás napján érvényes!"
+                  },
+                  {
+                    "languageCode": "HU",
+                    "text": "Csak a vásárlás napján érvényes!",
+                    "shortText": "Csak a vásárlás napján érvényes!"
+                  }
+                ],
+                "inputTexts": [
+                  {
+                    "languageCode": "HU",
+                    "text": null,
+                    "shortText": null
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": null,
+                    "shortText": null
+                  }
+                ],
+                "inputValueList": null,
+                "isGDPRData": false
+              },
+              {
+                "id": 1521,
+                "layoutDataName": "TEXT",
+                "layoutDataType": "Text",
+                "inputType": "STATIC",
+                "posX": 0,
+                "posY": 69,
+                "width": 54,
+                "height": 3,
+                "borderStyle": "NONE",
+                "borderWidth": 0,
+                "fontName": "ARIALN",
+                "fontSize": 7,
+                "fontTypography": "BOLD",
+                "formatString": null,
+                "horizontalAlign": "CENTER",
+                "verticalAlign": "CENTER",
+                "zOrder": 1,
+                "isRequired": false,
+                "pictureContent": null,
+                "pictureFileName": null,
+                "pictureMimeType": null,
+                "texts": [
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "Valid only on the day of purchase!",
+                    "shortText": "Valid only on the day of purchase!"
+                  },
+                  {
+                    "languageCode": "HU",
+                    "text": "Valid only on the day of purchase!",
+                    "shortText": "Valid only on the day of purchase!"
+                  }
+                ],
+                "inputTexts": [
+                  {
+                    "languageCode": "HU",
+                    "text": null,
+                    "shortText": null
+                  },
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": null,
+                    "shortText": null
+                  }
+                ],
+                "inputValueList": null,
+                "isGDPRData": false
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "packageType": "SWCONFIG",
+      "id": "9",
+      "created": "2021-06-27T16:36:10.6546235Z",
+      "value": {
+        "backofficeUrl": "jdbc:mysql://localhost/data",
+        "backofficeLan": true,
+        "backofficeLanUser": "szabi",
+        "backofficeLanPass": "szabi",
+        "MultiServicePoint": {
+          "HelpParams": {
+            "titleTextSize": 42,
+            "helpTextSize": 38,
+            "helpItemList": [
+              {
+                "imageName": "bob_info_01.png",
+                "helpText": [
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "Érintse meg az automatát a kijelző bármely felületén."
+                  },
+                  {
+                    "languageCode": "HU",
+                    "text": "Érintse meg az automatát a kijelző bármely felületén."
+                  },
+                  {
+                    "languageCode": "EN",
+                    "text": null
+                  },
+                  {
+                    "languageCode": "DE",
+                    "text": null
+                  }
+                ]
+              },
+              {
+                "imageName": "bob_info_02.png",
+                "helpText": [
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "Ha megérintette a kijelzőt, az automata képernyőjén megjelennek a menetjegyek és bérletek választási lehetőségei."
+                  },
+                  {
+                    "languageCode": "HU",
+                    "text": "Ha megérintette a kijelzőt, az automata képernyőjén megjelennek a menetjegyek és bérletek választási lehetőségei."
+                  },
+                  {
+                    "languageCode": "EN",
+                    "text": null
+                  },
+                  {
+                    "languageCode": "DE",
+                    "text": null
+                  }
+                ]
+              },
+              {
+                "imageName": "bob_info_03.png",
+                "helpText": [
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "Ha kiválasztotta a megfelelő jegy vagy bérlettípust, a következő felületen választhatja ki a kívánt darabszámot. Ha mindent rendben talált, nyomja meg a 'Tovább' gombot."
+                  },
+                  {
+                    "languageCode": "HU",
+                    "text": "Ha kiválasztotta a megfelelő jegy vagy bérlettípust, a következő felületen választhatja ki a kívánt darabszámot. Ha mindent rendben talált, nyomja meg a 'Tovább' gombot."
+                  },
+                  {
+                    "languageCode": "EN",
+                    "text": null
+                  },
+                  {
+                    "languageCode": "DE",
+                    "text": null
+                  }
+                ]
+              },
+              {
+                "imageName": "bob_info_04.png",
+                "helpText": [
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "A kiválasztott termékhez kötelező megadni a használatához szükséges azonosítót, ami a 'Termék részletek' felületen, az üres sort megérintve megjelenő billentyűzettel írható be."
+                  },
+                  {
+                    "languageCode": "HU",
+                    "text": "A kiválasztott termékhez kötelező megadni a használatához szükséges azonosítót, ami a 'Termék részletek' felületen, az üres sort megérintve megjelenő billentyűzettel írható be."
+                  },
+                  {
+                    "languageCode": "EN",
+                    "text": null
+                  },
+                  {
+                    "languageCode": "DE",
+                    "text": null
+                  }
+                ]
+              },
+              {
+                "imageName": "bob_info_05.png",
+                "helpText": [
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "A 'Kiválasztott tételek' összesítő felületen ellenőrizheti a termékeket."
+                  },
+                  {
+                    "languageCode": "HU",
+                    "text": "A 'Kiválasztott tételek' összesítő felületen ellenőrizheti a termékeket."
+                  },
+                  {
+                    "languageCode": "EN",
+                    "text": null
+                  },
+                  {
+                    "languageCode": "DE",
+                    "text": null
+                  }
+                ]
+              },
+              {
+                "imageName": "bob_info_06.png",
+                "helpText": [
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "Ha mindent rendben talált, nyomja meg a fizetés gombot."
+                  },
+                  {
+                    "languageCode": "HU",
+                    "text": "Ha mindent rendben talált, nyomja meg a fizetés gombot."
+                  },
+                  {
+                    "languageCode": "EN",
+                    "text": null
+                  },
+                  {
+                    "languageCode": "DE",
+                    "text": null
+                  }
+                ]
+              },
+              {
+                "imageName": "bob_info_07.png",
+                "helpText": [
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "Bankkártyáját érintse a terminálhoz, és kövesse az ott megjelenő utasításokat. Sikeres fizetés után kezdődik meg a jegyek/bérletek nyomtatása."
+                  },
+                  {
+                    "languageCode": "HU",
+                    "text": "Bankkártyáját érintse a terminálhoz, és kövesse az ott megjelenő utasításokat. Sikeres fizetés után kezdődik meg a jegyek/bérletek nyomtatása."
+                  },
+                  {
+                    "languageCode": "EN",
+                    "text": null
+                  },
+                  {
+                    "languageCode": "DE",
+                    "text": null
+                  }
+                ]
+              },
+              {
+                "imageName": "bob_info_08.png",
+                "helpText": [
+                  {
+                    "languageCode": "DEFAULT",
+                    "text": "Vegye el a kinyomtatott jegyet/bérletét!\nUtazáskor kérjük, ne felejtse el érvényesíteni a jegyét!"
+                  },
+                  {
+                    "languageCode": "HU",
+                    "text": "Vegye el a kinyomtatott jegyet/bérletét!\nUtazáskor kérjük, ne felejtse el érvényesíteni a jegyét!"
+                  },
+                  {
+                    "languageCode": "EN",
+                    "text": null
+                  },
+                  {
+                    "languageCode": "DE",
+                    "text": null
+                  }
+                ]
+              }
+            ]
+          },
+          "OwnerParams": {
+            "OwnerDataItems": {
+              "OwnerName": "Balatoni Bob Kft.",
+              "OwnerNameShortText": "Balatoni Bob",
+              "OwnerAddress": "8184 Balatonfűzfő, Uszoda u. 2",
+              "OwnerPhoneNumber": "+36 30 143 0000",
+              "OwnerWebPage": "www.balatonibob.hu",
+              "OwnerEmailAddress": "bob@balatonibob.hu",
+              "CustomerServicePhone": "+36 30 143 0000",
+              "CustomerServiceEmail": "bob@balatonibob.hu"
+            },
+            "LegalNoticeFileName": "Adatkezelesi_Tajekoztato_Folyamatleiras.html"
+          },
+          "viewElementsDisplayParams": {
+            "TicketButtonItem": {
+              "ButtonMainIcon": false,
+              "ButtonMainIconName": "ticket.png",
+              "DisplayColor": "#FFFEBD11",
+              "DisplayFont": {
+                "FontColor": "#FF1E2832",
+                "FontName": "BarlowCondensed_SemiBold.ttf",
+                "FontSize": 43,
+                "FontStyle": "NORMAL"
+              },
+              "DisplayOrder": 2,
+              "FastBuy": false,
+              "Divider": false
+            },
+            "BasketItem": {
+              "DisplayColor": "#FFFEBD11",
+              "DisplayFont": {
+                "FontColor": "#FF1E2832",
+                "FontName": "BarlowCondensed_SemiBold.ttf",
+                "FontSize": 43,
+                "FontStyle": "NORMAL"
+              },
+              "ButtonVerticalOffset": 0
+            }
+          },
+          "displayParamsDefault": {
+            "DisplayColor": "#FFFFFFFF",
+            "DisplayFont": {
+              "FontColor": "#FF1E2832",
+              "FontName": "BarlowCondensed_Regular.ttf",
+              "FontSize": 43,
+              "FontStyle": "NORMAL"
+            },
+            "DisplayOrder": 1000,
+            "FastBuy": false,
+            "Divider": false
+          },
+          "MenuParams": {
+            "DividerHeight": 75,
+            "MenuButtonsMargin": 10,
+            "MenuButtonHeight": 220,
+            "StretchMenuButtonsHeight": true,
+            "ColumnCount": 2
+          },
+          "ScreenSaverParams": {
+            "AnimateScreenSaver": false,
+            "ScreenSaverTimerValueInSeconds": 120,
+            "ScreenSaveBackgroundColor": "#FFFFFFFF",
+            "ScreenSaverItemList": [
+              {
+                "DataType": "TEXT",
+                "PosX": 204,
+                "PosY": 1105,
+                "ImgWidth": 0,
+                "ImgHeight": 0,
+                "ImgResourceName": "",
+                "TxtResource": "Kérem érintse meg a képernyőt!",
+                "TextColor": "#FF000000",
+                "TextStyle": "bold",
+                "TypeFaceName": "quicksandmedium.ttf",
+                "TextSize": 42
+              },
+              {
+                "DataType": "TEXT",
+                "PosX": 317,
+                "PosY": 1225,
+                "ImgWidth": 0,
+                "ImgHeight": 0,
+                "ImgResourceName": "",
+                "TxtResource": "Please tap the screen",
+                "TextColor": "#FF000000",
+                "TextStyle": "bold",
+                "TypeFaceName": "quicksandmedium.ttf",
+                "TextSize": 42
+              },
+              {
+                "DataType": "TEXT",
+                "PosX": 179,
+                "PosY": 1355,
+                "ImgWidth": 0,
+                "ImgHeight": 0,
+                "ImgResourceName": "",
+                "TxtResource": "Bitte tippen Sie auf den Bildschirm!",
+                "TextColor": "#FF000000",
+                "TextStyle": "bold",
+                "TypeFaceName": "quicksandmedium.ttf",
+                "TextSize": 42
+              },
+              {
+                "DataType": "IMAGE",
+                "PosX": 215,
+                "PosY": 355,
+                "ImgWidth": 650,
+                "ImgHeight": 650,
+                "ImgResourceName": "screensaver.png",
+                "TxtResource": "",
+                "TextColor": "",
+                "TextStyle": "",
+                "TypeFaceName": "",
+                "TextSize": 0
+              },
+              {
+                "DataType": "IMAGE",
+                "PosX": 293,
+                "PosY": 1455,
+                "ImgWidth": 494,
+                "ImgHeight": 300,
+                "ImgResourceName": "company_logo_bob.png",
+                "TxtResource": "",
+                "TextColor": "",
+                "TextStyle": "",
+                "TypeFaceName": "",
+                "TextSize": 0
+              }
+            ]
+          },
+          "isMoreThanOneEnabled": true,
+          "MaxTicketsOnPage": 12,
+          "MaxTicketsToSale": 20,
+          "MaxAmountToPay": 100000,
+          "UseCalculatedPaperOut": true,
+          "InactiveTimerValueInSeconds": 30,
+          "InactiveDialogTimerValueInSeconds": 10,
+          "InvoiceIsEnabled": false,
+          "PersonalizationConfirmationEnabled": true,
+          "TicketPrintAnimEnabled": true,
+          "PagingAnimationEnabled": true,
+          "TicketPrintAnimDurationInSeconds": 25,
+          "RepeatPayment": 1,
+          "PrintErrorReportEnabled": true,
+          "BasketParams": {
+            "BasketEnabled": true,
+            "ShowEmptyItemsInBasket": false,
+            "ConfirmationDeleteAllBasket": true,
+            "ConfirmationDeleteBasketItem": true,
+            "BasketItemCanBeDeleted": true,
+            "QuantityModifierTiming": 1,
+            "BasketItemPerPage": 6,
+            "ListOrderedByName": false,
+            "EmptyItemPushBack": false,
+            "KeepBasketAliveAtStopPaying": false,
+            "GroupTicketsInBasket": true
+          },
+          "HideBottomPanelWhenTicketSelected": false,
+          "LogLevel": 6,
+          "CompanyLogoFileName": "company_logo_bob.png",
+          "CreditCardLogoFileName": "bank_icon_v2.png",
+          "LanguageList": [
+            {
+              "LanguageCode": "HU",
+              "LocaleID": "hu",
+              "Language": "Magyar",
+              "FlagImageFileName": "flag_hu.png",
+              "TranslationXMLFileName": "LanguageHU.xml",
+              "FlagPosition": 1,
+              "LangButtonEnabled": true
+            },
+            {
+              "LanguageCode": "EN",
+              "LocaleID": "en",
+              "Language": "English",
+              "FlagImageFileName": "flag_en.png",
+              "TranslationXMLFileName": "LanguageEN.xml",
+              "FlagPosition": 2,
+              "LangButtonEnabled": false
+            },
+            {
+              "LanguageCode": "DE",
+              "LocaleID": "de",
+              "Language": "Deutsch",
+              "FlagImageFileName": "flag_de.png",
+              "TranslationXMLFileName": "LanguageDE.xml",
+              "FlagPosition": 3,
+              "LangButtonEnabled": false
+            }
+          ]
+        },
+        "ServiceModul": {
+          "LogLevel": 6,
+          "login_name_length": 0,
+          "login_name_type": "NUMBER",
+          "password_length": 4,
+          "password_type": "NUMBER"
+        },
+        "WatchDog": {
+          "LogLevel": 6,
+          "transactionSendingInterval": 5000
+        },
+        "HardwareHandler": {
+          "LogLevel": 6
+        },
+        "ServiceBOInterface": {
+          "LogLevel": 6
+        },
+        "SaleBOInterface": {
+          "LogLevel": 6
+        },
+        "printInPictureOnly": false,
+        "maximumOfTicketSerialNumbers": 999999
+      }
+    },
+    {
+      "packageType": "HWCONFIG",
+      "id": "8",
+      "created": "2021-06-27T16:36:10.6546235Z",
+      "value": {
+        "terminalId": "2",
+        "Peripherals": [
+          {
+            "Connection": "USB",
+            "ConnectionParams": {
+              "PID": "1000",
+              "VID": "1051"
+            },
+            "Type": "Printer",
+            "MustHaveToStart": true,
+            "Enabled": true
+          },
+          {
+            "Connection": "USB",
+            "ConnectionParams": {
+              "PID": "0103",
+              "VID": "27dd"
+            },
+            "Type": "QR",
+            "MustHaveToStart": false,
+            "Enabled": true
+          },
+          {
+            "Connection": "SERIAL",
+            "ConnectionParams": {
+              "PID": "",
+              "VID": "CASTLES"
+            },
+            "Type": "POS",
+            "MustHaveToStart": true,
+            "Enabled": true
+          }
+        ],
+        "printer_DotPerMilliMeter": 8,
+        "printer_HeightCorrection": 0,
+        "printLayoutXOffset": -32,
+        "printLayoutYOffset": 0,
+        "blackMarkDistance": 27,
+        "blackMarkOnPaper": false,
+        "paperTypeSerialized": false
+      }
+    },
+    {
+      "packageType": "USER_LIST",
+      "id": "2",
+      "created": "2021-06-27T16:36:10.6546235Z",
+      "value": {
+        "accounts": [
+          {
+            "name": "Altalanos",
+            "login_name": "",
+            "pwd": "2020",
+            "level": "1"
+          },
+          {
+            "name": "Jarmuvezeto",
+            "login_name": "",
+            "pwd": "1478",
+            "level": "3"
+          },
+          {
+            "name": "B.Csaba",
+            "login_name": "",
+            "pwd": "2323",
+            "level": "1"
+          }
+        ]
+      }
+    },
+    {
+      "packageType": "NAV_ID",
+      "id": "2",
+      "created": "2021-10-02T16:36:10.6546235Z",
+      "value": {
+        "navId": "teszt"
+      }
+    }
+  ],
+  "returnCode": 0,
+  "returnMessage": ""
+}
