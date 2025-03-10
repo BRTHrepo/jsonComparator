@@ -1,7 +1,7 @@
 # Általános F# build fájlok
 *.fsx
 *.fsi
-*.fs
+
 
 # .NET build fájlok
 bin/
