@@ -1,19 +1,13 @@
 ﻿module ConsoleApp1.JsonTraverser
 
-// JsonTraverser.fs
-
-
 open System
-open System.Collections.Generic
 open System.Text.Json
-
-// Define the JsonValue type
-
 
 type JsonValue = 
     | String of string
     | Integer of int
     | Float of float
+    | Boolean of bool
     | Array of JsonValue list
     | Object of Map<string, JsonValue>
     | Null
@@ -24,6 +18,8 @@ let JsonObject = Map<string, JsonValue>
 let rec jsonElementToJsonValue (element: JsonElement) : JsonValue =
     match element.ValueKind with
     | JsonValueKind.String -> String (element.GetString())
+    | JsonValueKind.True -> Boolean true
+    | JsonValueKind.False -> Boolean false
     | JsonValueKind.Number when element.TryGetInt32() |> fst ->
         Integer (element.GetInt32())
     | JsonValueKind.Number ->
