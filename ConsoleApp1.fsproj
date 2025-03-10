@@ -13,6 +13,7 @@
         <Compile Include="Json2.fs" />
         <Compile Include="JsonTraverser.fs" />
         <Compile Include="JsonValidator.fs" />
+        <Compile Include="JsonComparator.fs" />
         <Compile Include="Program.fs"/>
     </ItemGroup>
 

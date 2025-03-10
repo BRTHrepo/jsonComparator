@@ -53,9 +53,29 @@ let main argv =
     let result2 = ConsoleApp1.Json2.compareJsonFiles file1Path file2Path
     result2 |> List.iter (printfn "%s")
     let json1 = Json.readJsonFile file1Path
+    let json2 = Json.readJsonFile file2Path
+    // Bejárás és Map létrehozása
     let mapJson1 = JsonTraverser.traverseJsonDocument (json1)
-    mapJson1  |> Map.iter (fun k v -> printfn "%s: %A" k v)
-    
+    let mapJson2 = JsonTraverser.traverseJsonDocument (json2)
+
+    printfn "Json1 tartalma:"
+    mapJson1 |> Map.iter (fun k v -> printfn "%s: %A" k v)
+
+    printfn "\nJson2 tartalma:"
+    mapJson2 |> Map.iter (fun k v -> printfn "%s: %A" k v)
+
+    // Összehasonlítás és eredmény kiírása
+    let comparisonResult = JsonComparator.compareJsonDictionaries mapJson1 mapJson2
+
+    printfn "\nÖsszehasonlítás eredménye:"
+    comparisonResult
+    |> Map.iter (fun k v ->
+        printfn "Kulcs: %s" k
+        printfn "  Ugyanaz: %b" v.same
+        printfn "  Json1 érték: %A" v.json1Value
+        printfn "  Json2 érték: %A\n" v.json2Value
+    )
+
     
     
     0 // Kilépési kód
