@@ -1,12 +1,7 @@
 ﻿module ConsoleApp1.Program
+
 open System
-open ConsoleApp1.Json
-open ConsoleApp1.Json2
 
-
-
-
-printfn "Hello from F#"
 
 type IPrintable =
     abstract member Print : unit -> unit
@@ -52,11 +47,15 @@ let main argv =
     printfn "JSON összehasonlítás indítása..."
     let file1Path = "a.json"
     let file2Path = "b.json"
-    let result = ConsoleApp1.Json.compareJsonFiles file1Path file2Path
+    let result = Json.compareJsonFiles file1Path file2Path
     printfn $"Eredmény: %s{result}"
     
     let result2 = ConsoleApp1.Json2.compareJsonFiles file1Path file2Path
     result2 |> List.iter (printfn "%s")
+    let json1 = Json.readJsonFile file1Path
+    let mapJson1 = JsonTraverser.traverseJsonDocument (json1)
+    mapJson1  |> Map.iter (fun k v -> printfn "%s: %A" k v)
+    
     
     
     0 // Kilépési kód

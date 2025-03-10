@@ -6,15 +6,14 @@
     </PropertyGroup>
 
     <ItemGroup>
+
+        <Content Include="a.json" />
+        <Content Include="b.json" />
         <Compile Include="Json.fs" />
         <Compile Include="Json2.fs" />
+        <Compile Include="JsonTraverser.fs" />
+        <Compile Include="JsonValidator.fs" />
         <Compile Include="Program.fs"/>
-
-    </ItemGroup>
-
-    <ItemGroup>
-      <Content Include="a.json" />
-      <Content Include="b.json" />
     </ItemGroup>
 
 </Project>

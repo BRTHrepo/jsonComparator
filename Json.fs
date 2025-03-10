@@ -91,13 +91,6 @@ let compareJsonFiles (file1Path: string) (file2Path: string) =
     let sortedJson2 = sortJsonProperties json2.RootElement
     compareJson sortedJson1 sortedJson2
 
-// Példa használat
-let file1Path =  "a.json"
-let file2Path = "b.json"
-let result = compareJsonFiles file1Path file2Path
-printfn "json.fs -----------------------------------------------------------------"
-printfn $"%s{result}"
-printfn"-----------------------------------------"
-printfn""
+
 
 

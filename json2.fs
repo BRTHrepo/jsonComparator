@@ -45,68 +45,7 @@ and sortJsonArray (json: JsonElement) : JsonElement =
     let sortedJsonString = JsonSerializer.Serialize(sortedArray, options)
     JsonDocument.Parse(sortedJsonString).RootElement
 
-(*
-let compareJson (json1: JsonElement) (json2: JsonElement) : string option =
-    let rec compare (j1: JsonElement) (j2: JsonElement) =
-        match j1.ValueKind, j2.ValueKind with
-        | JsonValueKind.Object, JsonValueKind.Object ->
-            let props1 = j1.EnumerateObject() |> Seq.map (fun p -> p.Name) |> Set.ofSeq
-            let props2 = j2.EnumerateObject() |> Seq.map (fun p -> p.Name) |> Set.ofSeq
 
-            if props1 <> props2 then
-               // Some $"""Különböző kulcsok: {Set.difference props1 props2 |> String.concat ", "}"""
-                Some $"""Különböző kulcsok:\n{Set.difference props1 props2}"""
-            else
-                let differences =
-                    props1
-                    |> Seq.choose (fun (p: string) ->
-                        match compare (j1.GetProperty(p)) (j2.GetProperty(p)) with
-                        | Some msg -> Some($"Kulcs: {p}, Eltérés: {msg}")
-                        | None -> None)
-
-                if Seq.isEmpty differences then
-                    None
-                else
-                    Some(String.concat "; " differences)
-        | JsonValueKind.Array, JsonValueKind.Array ->
-            let arr1 = j1.EnumerateArray() |> Seq.toArray
-            let arr2 = j2.EnumerateArray() |> Seq.toArray
-
-            if arr1.Length <> arr2.Length then
-                Some $"""Különböző tömbméretek: {arr1.Length} vs {arr2.Length }"""
-            else
-                let differences =
-                    Seq.zip arr1 arr2
-                    |> Seq.mapi (fun i (a1, a2) ->
-                        match compare a1 a2 with
-                        | Some msg -> Some($"[{i}]: {msg}")
-                        | None -> None)
-                    |> Seq.choose id
-
-                if Seq.isEmpty differences then
-                    None
-                else
-                    Some(String.concat "; " differences)
-        | _, _ when j1.ValueKind <> j2.ValueKind || j1.GetRawText() <> j2.GetRawText() ->
-            let value1 =
-                match j1.ValueKind with
-                | JsonValueKind.String -> j1.GetString()
-                | JsonValueKind.Number -> j1.GetDouble().ToString()
-                | JsonValueKind.True | JsonValueKind.False -> j1.GetBoolean().ToString()
-                | JsonValueKind.Null -> "null"
-                | _ -> j1.GetRawText() // Csak az aktuális érték szöveges reprezentációja.
-            let value2 =
-                match j2.ValueKind with
-                | JsonValueKind.String -> j2.GetString()
-                | JsonValueKind.Number -> j2.GetDouble().ToString()
-                | JsonValueKind.True | JsonValueKind.False -> j2.GetBoolean().ToString()
-                | JsonValueKind.Null -> "null"
-                | _ -> j2.GetRawText() // Csak az aktuális érték szöveges reprezentációja.
-            Some $"""Különböző értékek: {value1} vs {value2 }"""
-        | _ -> None
-
-    compare json1 json2
-    *)
 let compareJson (json1: JsonElement) (json2: JsonElement) : string list =
     let rec compare (j1: JsonElement) (j2: JsonElement) : string list =
         match j1.ValueKind, j2.ValueKind with
