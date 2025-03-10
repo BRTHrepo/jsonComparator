@@ -10,6 +10,7 @@
                   "id":"1",
                   "code":"11459",
                   "name":"Felnőtt 1",
+				  "bool" : true,
                   "count":1
                },
                {
