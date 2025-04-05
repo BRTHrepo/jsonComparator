@@ -25,10 +25,31 @@ This project is an F# application designed to compare and validate JSON files. I
 
 ## File Structure
 
+The project contains the following files:
+
 - **Json.fs**: Contains functions for reading, validating, and sorting JSON files.
 - **json2.fs**: Implements recursive comparison logic for JSON files.
 - **Program.fs**: Entry point of the application; integrates sorting and comparison functionalities.
 - **a.json & b.json**: Example JSON files used for testing.
+
+## How It Works
+
+1. **Validation**:
+   The `readJsonFile` function reads and parses JSON files using `System.Text.Json`. Invalid files result in descriptive error messages.
+
+2. **Sorting**:
+   The `sortJsonProperties` function recursively sorts objects and arrays by their keys.
+
+3. **Comparison**:
+   The `compareJson` function compares two sorted JSON structures recursively, identifying differences in keys, values, and array sizes.
+
+4. **Output**:
+   The `compareJsonFiles` function returns a list of discrepancies or a message indicating that the files are identical.
+
+## Dependencies
+
+- **System.Text.Json**: For parsing and handling JSON data.
+- **F# Core Libraries**: Functional programming utilities.
 
 ## Usage
 
